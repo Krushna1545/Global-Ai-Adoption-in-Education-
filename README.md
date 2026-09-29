@@ -22,12 +22,13 @@ After enabling GitHub Pages from the `main` branch and the root folder, the stat
 
 ## Tableau Dashboard and Story
 
-Publish `Skill Wallet r.twbx` to Tableau Public, then replace these placeholders with the share links:
+Explore the public Tableau visualizations:
 
-- Dashboard: `YOUR_TABLEAU_PUBLIC_DASHBOARD_URL`
-- Story: `YOUR_TABLEAU_PUBLIC_STORY_URL`
+- [Second Dashboard](https://public.tableau.com/app/profile/sarthak.baravkar/viz/SecondDashboard_17906096879450/Dashboard1)
+- [First Dashboard](https://public.tableau.com/app/profile/sarthak.baravkar/viz/firstDashboard_17906095421430/Dashboard2)
+- [Story: Global Education and AI Adoption Journey](https://public.tableau.com/app/profile/sarthak.baravkar/viz/FirstStory_17906106808140/Story1)
 
-GitHub Pages cannot run the Tableau workbook or the PHP form handlers. The workbook must be published on Tableau Public for visitors to interact with it.
+The workbook is hosted by Tableau Public. GitHub Pages serves the static site only; it does not run the Flask app or PHP form handlers.
 
 ## Run the Flask Version Locally
 
