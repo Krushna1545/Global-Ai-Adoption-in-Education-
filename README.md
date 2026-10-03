@@ -18,7 +18,7 @@ This project investigates how educational institutions worldwide are integrating
 ## Website
 
 After enabling GitHub Pages from the `main` branch and the root folder, the static website will be available at:
-[Open the website](https://sarthakbaravkar881-collab.github.io/global-ai-adoption-tableau-project/)
+[Open the website](https://krushna1545.github.io/Global-Ai-Adoption-in-Education-/)
 
 ## Tableau Dashboard and Story
 
