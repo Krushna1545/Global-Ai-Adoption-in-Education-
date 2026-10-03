@@ -1,0 +1,1361 @@
+year,month,country,region,student_ai_usage_pct,teacher_ai_usage_pct,schools_ai_adoption_pct,avg_daily_ai_usage_min,top_ai_tool,internet_penetration_pct,education_index,government_ai_policy,urban_ai_usage_pct,rural_ai_usage_pct,ai_in_curriculum,gender_gap_ai_usage_pct
+2015,1,United States,North America,1,2,1,19,Google Gemini,90,0.9,None,1,0,Yes,6
+2015,1,United Kingdom,Europe,4,1,5,11,Google Gemini,92,0.91,Draft,7,0,Yes,5
+2015,1,China,Asia,6,5,4,7,ChatGPT,70,0.75,Active,8,1,No,7
+2015,1,India,Asia,7,5,0,59,Microsoft Copilot,50,0.64,None,10,0,Yes,7
+2015,1,Germany,Europe,9,7,6,29,Khanmigo,93,0.94,Active,13,0,Yes,1
+2015,1,Brazil,South America,0,7,6,44,ChatGPT,75,0.7,Draft,4,0,No,10
+2015,1,Pakistan,Asia,3,8,7,46,Microsoft Copilot,45,0.55,Active,7,0,No,3
+2015,1,Nigeria,Africa,6,1,2,37,Microsoft Copilot,42,0.52,Active,11,0,Yes,5
+2015,1,Canada,North America,3,1,3,29,Microsoft Copilot,94,0.92,Draft,6,0,No,5
+2015,1,Australia,Oceania,0,1,6,37,ChatGPT,96,0.93,None,4,0,Yes,5
+2015,2,United States,North America,10,8,0,20,Google Gemini,90,0.9,Draft,13,0,Yes,4
+2015,2,United Kingdom,Europe,8,1,3,31,Khanmigo,92,0.91,Draft,10,0,No,3
+2015,2,China,Asia,8,7,7,33,Khanmigo,70,0.75,None,11,0,Yes,10
+2015,2,India,Asia,7,6,5,40,Microsoft Copilot,50,0.64,Draft,8,0,No,5
+2015,2,Germany,Europe,1,6,7,58,Google Gemini,93,0.94,None,1,0,Yes,9
+2015,2,Brazil,South America,5,8,1,8,Khanmigo,75,0.7,Active,8,0,Yes,1
+2015,2,Pakistan,Asia,9,8,2,59,ChatGPT,45,0.55,Active,14,0,Yes,8
+2015,2,Nigeria,Africa,6,1,5,13,Khanmigo,42,0.52,Draft,10,0,No,3
+2015,2,Canada,North America,5,2,6,56,Google Gemini,94,0.92,None,8,0,Yes,9
+2015,2,Australia,Oceania,1,5,5,7,ChatGPT,96,0.93,Active,5,0,No,7
+2015,3,United States,North America,1,6,6,5,ChatGPT,90,0.9,Active,3,0,Yes,6
+2015,3,United Kingdom,Europe,2,2,0,5,ChatGPT,92,0.91,Active,3,0,Yes,2
+2015,3,China,Asia,7,4,2,8,Microsoft Copilot,70,0.75,None,7,1,Yes,6
+2015,3,India,Asia,6,8,0,5,Microsoft Copilot,50,0.64,None,7,0,Yes,8
+2015,3,Germany,Europe,2,7,3,40,Microsoft Copilot,93,0.94,None,2,0,No,6
+2015,3,Brazil,South America,8,6,1,48,ChatGPT,75,0.7,Active,12,0,No,2
+2015,3,Pakistan,Asia,2,1,5,30,Google Gemini,45,0.55,Active,5,0,Yes,2
+2015,3,Nigeria,Africa,6,8,1,47,Microsoft Copilot,42,0.52,Active,11,0,No,1
+2015,3,Canada,North America,3,5,5,58,Khanmigo,94,0.92,Draft,5,0,No,2
+2015,3,Australia,Oceania,2,0,5,44,Google Gemini,96,0.93,Draft,6,0,No,9
+2015,4,United States,North America,7,0,6,44,ChatGPT,90,0.9,Active,12,0,No,8
+2015,4,United Kingdom,Europe,1,4,5,48,Khanmigo,92,0.91,None,6,0,Yes,5
+2015,4,China,Asia,4,0,6,44,Google Gemini,70,0.75,Active,8,0,No,3
+2015,4,India,Asia,0,4,1,42,Google Gemini,50,0.64,None,2,0,No,10
+2015,4,Germany,Europe,7,7,5,59,Microsoft Copilot,93,0.94,None,9,0,Yes,9
+2015,4,Brazil,South America,2,8,3,46,Google Gemini,75,0.7,Active,7,0,Yes,6
+2015,4,Pakistan,Asia,3,4,7,40,ChatGPT,45,0.55,Active,7,0,No,1
+2015,4,Nigeria,Africa,0,0,6,49,ChatGPT,42,0.52,None,4,0,No,5
+2015,4,Canada,North America,8,5,3,22,Microsoft Copilot,94,0.92,None,10,0,No,3
+2015,4,Australia,Oceania,8,7,5,45,Google Gemini,96,0.93,None,9,0,Yes,7
+2015,5,United States,North America,9,2,3,12,Microsoft Copilot,90,0.9,Active,10,0,Yes,1
+2015,5,United Kingdom,Europe,2,4,5,37,Microsoft Copilot,92,0.91,Active,4,0,No,1
+2015,5,China,Asia,6,5,0,58,Microsoft Copilot,70,0.75,None,9,0,No,2
+2015,5,India,Asia,3,7,3,53,Microsoft Copilot,50,0.64,Active,5,0,No,10
+2015,5,Germany,Europe,1,2,4,60,Khanmigo,93,0.94,Draft,6,0,No,7
+2015,5,Brazil,South America,6,2,0,51,Microsoft Copilot,75,0.7,Active,11,0,Yes,7
+2015,5,Pakistan,Asia,7,8,6,32,ChatGPT,45,0.55,Active,10,0,No,3
+2015,5,Nigeria,Africa,8,3,7,11,Microsoft Copilot,42,0.52,None,10,0,No,3
+2015,5,Canada,North America,4,1,5,49,Microsoft Copilot,94,0.92,Active,7,0,No,8
+2015,5,Australia,Oceania,6,8,2,42,Google Gemini,96,0.93,None,8,0,Yes,1
+2015,6,United States,North America,9,0,1,10,Khanmigo,90,0.9,Draft,9,4,No,7
+2015,6,United Kingdom,Europe,5,8,2,34,Khanmigo,92,0.91,Draft,9,0,No,2
+2015,6,China,Asia,2,4,0,34,Google Gemini,70,0.75,None,5,0,Yes,6
+2015,6,India,Asia,3,5,6,11,Microsoft Copilot,50,0.64,None,3,0,Yes,1
+2015,6,Germany,Europe,2,3,1,27,ChatGPT,93,0.94,Draft,3,0,No,4
+2015,6,Brazil,South America,5,4,1,11,Microsoft Copilot,75,0.7,Active,8,0,No,4
+2015,6,Pakistan,Asia,1,7,6,29,Khanmigo,45,0.55,None,3,0,No,7
+2015,6,Nigeria,Africa,1,6,2,50,Khanmigo,42,0.52,Active,1,0,Yes,3
+2015,6,Canada,North America,7,5,2,48,Google Gemini,94,0.92,None,11,0,No,2
+2015,6,Australia,Oceania,2,6,1,59,Microsoft Copilot,96,0.93,None,6,0,No,1
+2015,7,United States,North America,2,0,2,37,Microsoft Copilot,90,0.9,Active,4,0,Yes,5
+2015,7,United Kingdom,Europe,7,2,5,22,Khanmigo,92,0.91,None,9,0,Yes,5
+2015,7,China,Asia,7,3,5,15,Microsoft Copilot,70,0.75,Active,10,0,Yes,4
+2015,7,India,Asia,7,8,0,15,Khanmigo,50,0.64,Active,8,0,No,4
+2015,7,Germany,Europe,6,8,1,52,Microsoft Copilot,93,0.94,Draft,10,0,Yes,9
+2015,7,Brazil,South America,1,7,4,22,Google Gemini,75,0.7,Draft,1,0,Yes,10
+2015,7,Pakistan,Asia,4,2,4,15,Google Gemini,45,0.55,Active,7,0,No,10
+2015,7,Nigeria,Africa,4,0,0,48,Google Gemini,42,0.52,None,6,0,No,4
+2015,7,Canada,North America,7,3,5,5,ChatGPT,94,0.92,None,11,0,Yes,2
+2015,7,Australia,Oceania,2,3,4,60,Khanmigo,96,0.93,None,3,0,Yes,6
+2015,8,United States,North America,0,2,0,21,Khanmigo,90,0.9,Draft,3,0,No,1
+2015,8,United Kingdom,Europe,8,4,2,58,Google Gemini,92,0.91,Active,13,0,Yes,5
+2015,8,China,Asia,3,6,1,37,Microsoft Copilot,70,0.75,Draft,7,0,Yes,2
+2015,8,India,Asia,6,3,6,55,Google Gemini,50,0.64,Draft,9,0,No,8
+2015,8,Germany,Europe,8,1,4,47,ChatGPT,93,0.94,Active,8,1,No,7
+2015,8,Brazil,South America,3,4,5,27,Google Gemini,75,0.7,None,5,0,No,1
+2015,8,Pakistan,Asia,5,0,0,16,Khanmigo,45,0.55,None,8,0,Yes,9
+2015,8,Nigeria,Africa,8,3,2,50,ChatGPT,42,0.52,Draft,13,0,No,3
+2015,8,Canada,North America,10,6,6,31,ChatGPT,94,0.92,Active,14,0,No,7
+2015,8,Australia,Oceania,2,5,7,8,Microsoft Copilot,96,0.93,Active,2,0,Yes,3
+2015,9,United States,North America,9,8,1,53,Khanmigo,90,0.9,Active,11,0,No,5
+2015,9,United Kingdom,Europe,0,2,2,6,Khanmigo,92,0.91,Active,0,0,Yes,1
+2015,9,China,Asia,10,6,6,52,Google Gemini,70,0.75,Active,12,0,No,10
+2015,9,India,Asia,9,3,2,49,Microsoft Copilot,50,0.64,Draft,14,2,Yes,9
+2015,9,Germany,Europe,7,3,5,27,Microsoft Copilot,93,0.94,Active,12,1,Yes,10
+2015,9,Brazil,South America,2,1,5,24,ChatGPT,75,0.7,None,5,0,Yes,9
+2015,9,Pakistan,Asia,3,2,0,45,ChatGPT,45,0.55,Active,8,0,No,5
+2015,9,Nigeria,Africa,8,1,1,40,Google Gemini,42,0.52,None,11,3,Yes,4
+2015,9,Canada,North America,3,5,1,8,Google Gemini,94,0.92,Draft,8,0,No,2
+2015,9,Australia,Oceania,10,1,0,52,Khanmigo,96,0.93,Draft,15,2,No,4
+2015,10,United States,North America,5,6,7,54,Microsoft Copilot,90,0.9,Active,10,0,No,4
+2015,10,United Kingdom,Europe,4,5,1,19,Khanmigo,92,0.91,Active,4,0,Yes,8
+2015,10,China,Asia,2,4,2,21,Google Gemini,70,0.75,None,5,0,No,4
+2015,10,India,Asia,4,2,7,12,Google Gemini,50,0.64,Draft,7,0,No,8
+2015,10,Germany,Europe,5,5,5,12,Google Gemini,93,0.94,Active,10,0,No,6
+2015,10,Brazil,South America,5,6,4,10,ChatGPT,75,0.7,Active,8,0,Yes,6
+2015,10,Pakistan,Asia,0,5,7,40,Microsoft Copilot,45,0.55,Draft,0,0,No,8
+2015,10,Nigeria,Africa,9,5,4,51,Microsoft Copilot,42,0.52,Draft,10,4,Yes,5
+2015,10,Canada,North America,9,3,7,18,ChatGPT,94,0.92,None,14,0,No,3
+2015,10,Australia,Oceania,8,5,0,45,Khanmigo,96,0.93,None,9,0,No,4
+2015,11,United States,North America,6,5,2,23,Microsoft Copilot,90,0.9,Draft,10,0,No,3
+2015,11,United Kingdom,Europe,10,0,3,20,Khanmigo,92,0.91,Draft,15,0,Yes,2
+2015,11,China,Asia,4,1,2,45,Microsoft Copilot,70,0.75,Draft,6,0,No,5
+2015,11,India,Asia,6,3,0,16,Microsoft Copilot,50,0.64,Draft,8,0,Yes,6
+2015,11,Germany,Europe,4,7,0,17,Google Gemini,93,0.94,None,5,0,Yes,9
+2015,11,Brazil,South America,5,2,0,10,Google Gemini,75,0.7,Active,9,0,Yes,7
+2015,11,Pakistan,Asia,6,2,5,27,Khanmigo,45,0.55,Active,10,0,No,1
+2015,11,Nigeria,Africa,10,3,4,6,ChatGPT,42,0.52,Active,14,0,Yes,5
+2015,11,Canada,North America,8,4,0,48,Google Gemini,94,0.92,Draft,13,0,No,9
+2015,11,Australia,Oceania,9,4,1,41,ChatGPT,96,0.93,None,14,0,No,2
+2015,12,United States,North America,5,1,4,49,Khanmigo,90,0.9,None,9,0,Yes,10
+2015,12,United Kingdom,Europe,3,1,6,14,ChatGPT,92,0.91,Draft,4,0,Yes,3
+2015,12,China,Asia,0,0,6,25,Google Gemini,70,0.75,None,2,0,Yes,4
+2015,12,India,Asia,3,3,6,32,Google Gemini,50,0.64,None,6,0,No,6
+2015,12,Germany,Europe,2,1,6,16,ChatGPT,93,0.94,Active,5,0,No,4
+2015,12,Brazil,South America,5,6,7,24,Khanmigo,75,0.7,Active,10,0,No,7
+2015,12,Pakistan,Asia,10,8,0,33,ChatGPT,45,0.55,None,14,0,Yes,10
+2015,12,Nigeria,Africa,9,8,1,28,Google Gemini,42,0.52,None,10,0,No,9
+2015,12,Canada,North America,9,7,5,55,Microsoft Copilot,94,0.92,Active,11,0,No,8
+2015,12,Australia,Oceania,5,5,4,38,Google Gemini,96,0.93,Active,9,0,No,1
+2016,1,United States,North America,15,9,8,57,Microsoft Copilot,90,0.9,Active,18,10,No,6
+2016,1,United Kingdom,Europe,13,12,8,59,Microsoft Copilot,92,0.91,Active,18,6,Yes,1
+2016,1,China,Asia,15,7,11,50,ChatGPT,70,0.75,Draft,16,4,No,8
+2016,1,India,Asia,10,8,6,50,Google Gemini,50,0.64,Active,11,5,No,10
+2016,1,Germany,Europe,14,11,8,53,ChatGPT,93,0.94,Draft,15,8,No,4
+2016,1,Brazil,South America,13,6,10,25,ChatGPT,75,0.7,None,14,8,Yes,2
+2016,1,Pakistan,Asia,14,8,5,56,Microsoft Copilot,45,0.55,Draft,16,0,No,1
+2016,1,Nigeria,Africa,5,6,12,25,Google Gemini,42,0.52,Draft,6,0,Yes,2
+2016,1,Canada,North America,6,10,5,34,ChatGPT,94,0.92,Active,7,1,Yes,8
+2016,1,Australia,Oceania,11,7,10,34,Google Gemini,96,0.93,Active,16,0,Yes,5
+2016,2,United States,North America,14,8,12,28,ChatGPT,90,0.9,None,18,4,Yes,9
+2016,2,United Kingdom,Europe,12,13,10,56,Microsoft Copilot,92,0.91,Active,12,0,Yes,4
+2016,2,China,Asia,15,8,6,53,Google Gemini,70,0.75,None,17,0,Yes,6
+2016,2,India,Asia,11,13,9,10,ChatGPT,50,0.64,None,13,3,No,4
+2016,2,Germany,Europe,15,11,9,31,ChatGPT,93,0.94,None,20,5,Yes,1
+2016,2,Brazil,South America,15,12,6,14,Khanmigo,75,0.7,None,16,4,Yes,9
+2016,2,Pakistan,Asia,14,8,8,26,Khanmigo,45,0.55,None,16,7,No,8
+2016,2,Nigeria,Africa,13,8,6,25,Google Gemini,42,0.52,Active,13,4,Yes,6
+2016,2,Canada,North America,9,8,5,38,Google Gemini,94,0.92,Active,13,1,Yes,8
+2016,2,Australia,Oceania,11,8,9,57,Khanmigo,96,0.93,Draft,14,0,No,6
+2016,3,United States,North America,5,13,12,38,ChatGPT,90,0.9,None,9,0,No,5
+2016,3,United Kingdom,Europe,8,13,8,21,Google Gemini,92,0.91,None,9,0,Yes,7
+2016,3,China,Asia,15,8,11,20,Google Gemini,70,0.75,Active,16,9,No,2
+2016,3,India,Asia,11,6,5,53,Khanmigo,50,0.64,Draft,11,0,No,6
+2016,3,Germany,Europe,14,13,11,43,Khanmigo,93,0.94,Active,14,5,Yes,5
+2016,3,Brazil,South America,11,10,6,49,Microsoft Copilot,75,0.7,None,14,2,No,6
+2016,3,Pakistan,Asia,6,5,9,40,Khanmigo,45,0.55,None,7,0,Yes,9
+2016,3,Nigeria,Africa,7,8,9,54,Google Gemini,42,0.52,None,10,0,No,8
+2016,3,Canada,North America,5,7,7,5,Microsoft Copilot,94,0.92,Active,10,0,Yes,5
+2016,3,Australia,Oceania,14,7,5,39,Khanmigo,96,0.93,Draft,18,8,No,7
+2016,4,United States,North America,12,10,5,15,Microsoft Copilot,90,0.9,None,17,7,Yes,7
+2016,4,United Kingdom,Europe,12,9,9,29,Google Gemini,92,0.91,None,17,5,No,6
+2016,4,China,Asia,7,12,9,32,Microsoft Copilot,70,0.75,Active,12,0,Yes,7
+2016,4,India,Asia,15,5,6,12,ChatGPT,50,0.64,Draft,19,2,No,1
+2016,4,Germany,Europe,11,10,10,14,ChatGPT,93,0.94,None,16,3,Yes,8
+2016,4,Brazil,South America,11,11,8,55,Khanmigo,75,0.7,None,16,1,No,1
+2016,4,Pakistan,Asia,14,7,11,34,Khanmigo,45,0.55,Active,17,9,No,5
+2016,4,Nigeria,Africa,10,5,12,32,Khanmigo,42,0.52,Active,12,0,No,8
+2016,4,Canada,North America,11,10,6,34,ChatGPT,94,0.92,Active,13,5,No,7
+2016,4,Australia,Oceania,9,8,8,51,Microsoft Copilot,96,0.93,None,10,0,Yes,6
+2016,5,United States,North America,8,11,11,21,ChatGPT,90,0.9,Active,13,0,No,4
+2016,5,United Kingdom,Europe,7,12,6,45,ChatGPT,92,0.91,Active,7,2,Yes,6
+2016,5,China,Asia,5,10,8,12,Khanmigo,70,0.75,Draft,9,0,Yes,9
+2016,5,India,Asia,13,11,7,37,ChatGPT,50,0.64,Draft,18,6,No,10
+2016,5,Germany,Europe,7,6,9,20,Microsoft Copilot,93,0.94,None,8,0,Yes,8
+2016,5,Brazil,South America,9,8,9,7,ChatGPT,75,0.7,None,12,0,No,2
+2016,5,Pakistan,Asia,14,13,8,41,ChatGPT,45,0.55,Active,19,2,Yes,1
+2016,5,Nigeria,Africa,7,6,8,14,ChatGPT,42,0.52,Draft,11,2,Yes,9
+2016,5,Canada,North America,15,10,5,34,Microsoft Copilot,94,0.92,Draft,15,0,No,9
+2016,5,Australia,Oceania,11,10,8,48,ChatGPT,96,0.93,Active,16,1,No,10
+2016,6,United States,North America,8,13,7,42,Khanmigo,90,0.9,Draft,10,0,No,4
+2016,6,United Kingdom,Europe,8,6,9,30,Google Gemini,92,0.91,Draft,12,0,No,8
+2016,6,China,Asia,13,6,7,43,Microsoft Copilot,70,0.75,Active,18,0,No,5
+2016,6,India,Asia,13,6,10,17,Google Gemini,50,0.64,None,18,0,Yes,9
+2016,6,Germany,Europe,13,9,7,29,ChatGPT,93,0.94,None,13,2,No,7
+2016,6,Brazil,South America,9,7,10,49,Google Gemini,75,0.7,Active,10,0,No,1
+2016,6,Pakistan,Asia,10,13,12,24,Microsoft Copilot,45,0.55,Active,11,2,Yes,3
+2016,6,Nigeria,Africa,12,9,12,40,Google Gemini,42,0.52,None,13,2,No,1
+2016,6,Canada,North America,15,9,11,49,Khanmigo,94,0.92,None,15,0,Yes,7
+2016,6,Australia,Oceania,10,10,9,29,ChatGPT,96,0.93,None,14,1,No,9
+2016,7,United States,North America,15,13,11,46,ChatGPT,90,0.9,Active,16,6,No,4
+2016,7,United Kingdom,Europe,15,10,8,45,Microsoft Copilot,92,0.91,Active,19,0,No,9
+2016,7,China,Asia,13,5,7,43,Google Gemini,70,0.75,Draft,15,6,No,5
+2016,7,India,Asia,9,12,9,22,Khanmigo,50,0.64,None,11,0,Yes,4
+2016,7,Germany,Europe,7,12,10,49,Microsoft Copilot,93,0.94,Active,12,0,Yes,1
+2016,7,Brazil,South America,12,13,10,41,ChatGPT,75,0.7,Active,14,7,No,4
+2016,7,Pakistan,Asia,15,11,5,27,Microsoft Copilot,45,0.55,Draft,20,4,Yes,9
+2016,7,Nigeria,Africa,6,5,11,40,ChatGPT,42,0.52,None,8,0,No,5
+2016,7,Canada,North America,15,12,8,31,ChatGPT,94,0.92,Active,18,1,No,9
+2016,7,Australia,Oceania,15,6,12,16,Khanmigo,96,0.93,Active,20,5,Yes,5
+2016,8,United States,North America,11,7,10,7,Google Gemini,90,0.9,None,16,5,Yes,5
+2016,8,United Kingdom,Europe,12,12,12,59,ChatGPT,92,0.91,Active,14,0,No,1
+2016,8,China,Asia,14,13,5,40,Microsoft Copilot,70,0.75,None,18,4,Yes,7
+2016,8,India,Asia,6,5,8,51,Khanmigo,50,0.64,Active,6,1,Yes,8
+2016,8,Germany,Europe,12,7,11,20,Khanmigo,93,0.94,Active,14,7,Yes,6
+2016,8,Brazil,South America,15,9,6,31,ChatGPT,75,0.7,Draft,18,0,Yes,2
+2016,8,Pakistan,Asia,7,12,6,24,Google Gemini,45,0.55,Draft,9,0,No,9
+2016,8,Nigeria,Africa,5,12,9,21,ChatGPT,42,0.52,Active,6,0,Yes,1
+2016,8,Canada,North America,10,11,12,30,Microsoft Copilot,94,0.92,Draft,10,4,Yes,9
+2016,8,Australia,Oceania,6,6,7,51,Khanmigo,96,0.93,None,8,1,Yes,2
+2016,9,United States,North America,9,5,6,50,Google Gemini,90,0.9,Draft,11,1,No,6
+2016,9,United Kingdom,Europe,14,7,11,12,ChatGPT,92,0.91,Active,16,4,No,5
+2016,9,China,Asia,5,9,11,50,Google Gemini,70,0.75,None,9,0,Yes,4
+2016,9,India,Asia,15,10,11,49,Google Gemini,50,0.64,Draft,17,3,No,3
+2016,9,Germany,Europe,9,7,10,52,ChatGPT,93,0.94,Active,14,4,Yes,9
+2016,9,Brazil,South America,5,10,6,26,Khanmigo,75,0.7,Draft,5,0,Yes,7
+2016,9,Pakistan,Asia,9,11,12,18,Microsoft Copilot,45,0.55,Draft,11,1,Yes,8
+2016,9,Nigeria,Africa,8,7,9,27,Microsoft Copilot,42,0.52,None,12,0,No,10
+2016,9,Canada,North America,10,12,9,7,ChatGPT,94,0.92,Active,12,5,No,5
+2016,9,Australia,Oceania,11,9,11,35,ChatGPT,96,0.93,Draft,11,4,Yes,5
+2016,10,United States,North America,8,12,11,17,Khanmigo,90,0.9,Draft,12,2,Yes,7
+2016,10,United Kingdom,Europe,7,7,10,27,ChatGPT,92,0.91,Active,10,0,Yes,1
+2016,10,China,Asia,13,10,5,43,ChatGPT,70,0.75,None,16,0,No,10
+2016,10,India,Asia,7,12,6,29,Google Gemini,50,0.64,Draft,11,0,Yes,10
+2016,10,Germany,Europe,12,10,7,51,Khanmigo,93,0.94,Active,15,0,Yes,5
+2016,10,Brazil,South America,11,6,7,58,Google Gemini,75,0.7,Active,12,3,Yes,7
+2016,10,Pakistan,Asia,14,10,6,57,ChatGPT,45,0.55,None,14,0,Yes,2
+2016,10,Nigeria,Africa,13,8,9,59,Google Gemini,42,0.52,Active,16,1,Yes,7
+2016,10,Canada,North America,13,8,12,44,Google Gemini,94,0.92,Active,16,1,Yes,6
+2016,10,Australia,Oceania,13,12,5,26,Khanmigo,96,0.93,None,15,4,Yes,1
+2016,11,United States,North America,5,11,6,34,Khanmigo,90,0.9,Draft,5,0,Yes,2
+2016,11,United Kingdom,Europe,9,13,7,21,Microsoft Copilot,92,0.91,Active,9,0,Yes,1
+2016,11,China,Asia,6,6,11,30,ChatGPT,70,0.75,Active,9,0,Yes,3
+2016,11,India,Asia,8,5,11,41,ChatGPT,50,0.64,None,11,0,Yes,6
+2016,11,Germany,Europe,14,11,12,23,Google Gemini,93,0.94,Active,17,3,No,1
+2016,11,Brazil,South America,7,8,12,48,Khanmigo,75,0.7,Draft,12,0,Yes,2
+2016,11,Pakistan,Asia,6,9,8,36,ChatGPT,45,0.55,Draft,10,0,No,7
+2016,11,Nigeria,Africa,15,12,9,14,Google Gemini,42,0.52,Draft,20,10,No,2
+2016,11,Canada,North America,7,6,9,5,Khanmigo,94,0.92,None,8,2,No,6
+2016,11,Australia,Oceania,10,10,12,49,Google Gemini,96,0.93,None,14,0,No,1
+2016,12,United States,North America,9,12,12,30,ChatGPT,90,0.9,Draft,13,0,No,5
+2016,12,United Kingdom,Europe,5,5,6,13,Microsoft Copilot,92,0.91,None,10,0,No,5
+2016,12,China,Asia,11,9,8,36,Khanmigo,70,0.75,Active,12,6,No,6
+2016,12,India,Asia,7,10,12,44,Microsoft Copilot,50,0.64,Active,11,0,Yes,3
+2016,12,Germany,Europe,7,12,8,57,ChatGPT,93,0.94,Draft,9,0,No,5
+2016,12,Brazil,South America,5,12,9,53,ChatGPT,75,0.7,Active,10,0,Yes,1
+2016,12,Pakistan,Asia,8,11,10,27,Khanmigo,45,0.55,None,11,1,Yes,8
+2016,12,Nigeria,Africa,8,10,5,28,Khanmigo,42,0.52,Active,8,0,Yes,10
+2016,12,Canada,North America,7,12,9,39,Microsoft Copilot,94,0.92,Draft,9,0,Yes,10
+2016,12,Australia,Oceania,9,5,6,37,Google Gemini,96,0.93,Active,11,4,No,2
+2017,1,United States,North America,11,10,11,24,ChatGPT,90,0.9,None,16,5,Yes,8
+2017,1,United Kingdom,Europe,11,12,10,37,Microsoft Copilot,92,0.91,None,11,0,No,8
+2017,1,China,Asia,16,17,15,9,Khanmigo,70,0.75,None,17,3,Yes,6
+2017,1,India,Asia,18,13,17,51,Microsoft Copilot,50,0.64,None,20,10,No,8
+2017,1,Germany,Europe,15,18,11,11,Microsoft Copilot,93,0.94,None,20,8,Yes,1
+2017,1,Brazil,South America,13,11,14,49,Khanmigo,75,0.7,Active,17,3,Yes,10
+2017,1,Pakistan,Asia,16,12,17,60,Khanmigo,45,0.55,Draft,21,9,Yes,10
+2017,1,Nigeria,Africa,19,11,16,27,ChatGPT,42,0.52,Draft,21,13,Yes,3
+2017,1,Canada,North America,16,13,15,49,Microsoft Copilot,94,0.92,Draft,20,2,Yes,5
+2017,1,Australia,Oceania,17,14,12,6,Google Gemini,96,0.93,None,20,2,No,2
+2017,2,United States,North America,20,17,12,52,ChatGPT,90,0.9,Draft,21,8,No,1
+2017,2,United Kingdom,Europe,14,10,10,26,ChatGPT,92,0.91,None,14,3,Yes,1
+2017,2,China,Asia,16,14,14,31,Khanmigo,70,0.75,Active,17,7,No,1
+2017,2,India,Asia,11,18,12,35,Microsoft Copilot,50,0.64,Draft,11,0,No,9
+2017,2,Germany,Europe,17,17,11,46,ChatGPT,93,0.94,Active,20,2,Yes,3
+2017,2,Brazil,South America,11,11,14,32,Google Gemini,75,0.7,Draft,14,0,No,5
+2017,2,Pakistan,Asia,20,18,10,12,Khanmigo,45,0.55,None,24,6,No,5
+2017,2,Nigeria,Africa,16,15,11,27,Microsoft Copilot,42,0.52,Active,17,8,Yes,2
+2017,2,Canada,North America,13,16,16,47,ChatGPT,94,0.92,Active,18,0,No,3
+2017,2,Australia,Oceania,19,12,14,31,Khanmigo,96,0.93,Active,20,13,Yes,1
+2017,3,United States,North America,17,15,10,42,Microsoft Copilot,90,0.9,Active,20,11,Yes,2
+2017,3,United Kingdom,Europe,20,11,14,41,Khanmigo,92,0.91,Active,21,8,Yes,3
+2017,3,China,Asia,15,18,13,34,ChatGPT,70,0.75,Active,18,0,No,10
+2017,3,India,Asia,17,12,16,26,Microsoft Copilot,50,0.64,None,19,3,Yes,5
+2017,3,Germany,Europe,14,10,14,39,Khanmigo,93,0.94,None,18,3,No,7
+2017,3,Brazil,South America,20,13,11,34,ChatGPT,75,0.7,Draft,24,9,Yes,5
+2017,3,Pakistan,Asia,17,17,11,47,ChatGPT,45,0.55,Active,18,5,No,2
+2017,3,Nigeria,Africa,11,12,16,37,ChatGPT,42,0.52,Active,15,1,No,10
+2017,3,Canada,North America,12,17,13,21,Microsoft Copilot,94,0.92,None,14,0,No,5
+2017,3,Australia,Oceania,12,18,12,34,ChatGPT,96,0.93,Draft,17,0,Yes,2
+2017,4,United States,North America,20,14,11,36,Khanmigo,90,0.9,Active,20,8,Yes,8
+2017,4,United Kingdom,Europe,19,11,13,51,ChatGPT,92,0.91,Draft,20,13,Yes,6
+2017,4,China,Asia,12,12,16,33,ChatGPT,70,0.75,None,13,4,No,5
+2017,4,India,Asia,19,10,17,56,ChatGPT,50,0.64,Draft,21,8,Yes,10
+2017,4,Germany,Europe,13,18,16,8,ChatGPT,93,0.94,Active,18,0,No,7
+2017,4,Brazil,South America,18,14,17,60,Khanmigo,75,0.7,None,22,9,Yes,2
+2017,4,Pakistan,Asia,13,18,14,19,Google Gemini,45,0.55,None,13,6,Yes,9
+2017,4,Nigeria,Africa,10,13,12,20,Google Gemini,42,0.52,None,15,0,No,2
+2017,4,Canada,North America,12,16,11,13,ChatGPT,94,0.92,None,15,7,Yes,3
+2017,4,Australia,Oceania,14,14,13,32,ChatGPT,96,0.93,Draft,17,1,No,2
+2017,5,United States,North America,12,15,14,29,Khanmigo,90,0.9,None,14,0,Yes,2
+2017,5,United Kingdom,Europe,19,14,16,11,ChatGPT,92,0.91,None,21,8,Yes,5
+2017,5,China,Asia,18,16,15,30,Khanmigo,70,0.75,Draft,23,3,Yes,9
+2017,5,India,Asia,19,16,12,32,Microsoft Copilot,50,0.64,Draft,22,14,Yes,1
+2017,5,Germany,Europe,18,13,15,7,ChatGPT,93,0.94,None,22,8,No,3
+2017,5,Brazil,South America,10,12,10,11,Microsoft Copilot,75,0.7,None,13,1,Yes,5
+2017,5,Pakistan,Asia,19,16,14,10,Khanmigo,45,0.55,Active,22,8,Yes,2
+2017,5,Nigeria,Africa,13,13,13,45,ChatGPT,42,0.52,Draft,18,3,Yes,6
+2017,5,Canada,North America,19,12,17,39,Google Gemini,94,0.92,None,21,13,No,8
+2017,5,Australia,Oceania,11,15,15,59,Khanmigo,96,0.93,None,13,0,Yes,5
+2017,6,United States,North America,19,12,13,38,Google Gemini,90,0.9,Draft,24,12,Yes,2
+2017,6,United Kingdom,Europe,14,10,16,53,Khanmigo,92,0.91,None,18,4,Yes,2
+2017,6,China,Asia,11,15,13,11,Microsoft Copilot,70,0.75,Active,11,5,Yes,1
+2017,6,India,Asia,15,10,11,49,ChatGPT,50,0.64,Active,17,8,No,8
+2017,6,Germany,Europe,18,15,10,8,Microsoft Copilot,93,0.94,None,19,10,Yes,10
+2017,6,Brazil,South America,14,15,12,34,ChatGPT,75,0.7,Active,18,6,No,4
+2017,6,Pakistan,Asia,14,16,13,36,Khanmigo,45,0.55,None,17,8,No,2
+2017,6,Nigeria,Africa,18,10,10,52,ChatGPT,42,0.52,Active,23,12,No,9
+2017,6,Canada,North America,18,13,11,60,Google Gemini,94,0.92,None,23,4,No,6
+2017,6,Australia,Oceania,11,18,13,20,Khanmigo,96,0.93,Active,15,2,Yes,2
+2017,7,United States,North America,18,17,12,5,Khanmigo,90,0.9,None,18,10,Yes,2
+2017,7,United Kingdom,Europe,10,16,10,18,Google Gemini,92,0.91,Draft,11,0,No,6
+2017,7,China,Asia,12,14,10,55,ChatGPT,70,0.75,None,13,0,Yes,9
+2017,7,India,Asia,14,14,13,25,Microsoft Copilot,50,0.64,Active,19,9,Yes,4
+2017,7,Germany,Europe,17,14,16,41,Microsoft Copilot,93,0.94,Draft,21,7,No,2
+2017,7,Brazil,South America,11,13,13,37,Microsoft Copilot,75,0.7,Active,14,0,No,10
+2017,7,Pakistan,Asia,10,17,12,15,ChatGPT,45,0.55,None,11,0,Yes,3
+2017,7,Nigeria,Africa,20,12,15,57,Microsoft Copilot,42,0.52,Active,25,14,No,4
+2017,7,Canada,North America,12,13,16,54,Khanmigo,94,0.92,None,13,2,No,7
+2017,7,Australia,Oceania,19,15,16,7,Google Gemini,96,0.93,None,21,7,Yes,4
+2017,8,United States,North America,19,16,13,21,ChatGPT,90,0.9,Active,21,11,Yes,1
+2017,8,United Kingdom,Europe,10,11,17,8,ChatGPT,92,0.91,Draft,10,0,No,6
+2017,8,China,Asia,11,12,12,43,ChatGPT,70,0.75,Active,13,5,Yes,9
+2017,8,India,Asia,12,14,12,29,Khanmigo,50,0.64,Draft,15,5,No,7
+2017,8,Germany,Europe,20,18,13,23,ChatGPT,93,0.94,Active,25,10,Yes,10
+2017,8,Brazil,South America,17,10,13,11,Microsoft Copilot,75,0.7,Draft,19,7,No,2
+2017,8,Pakistan,Asia,17,12,15,14,Google Gemini,45,0.55,Active,22,2,Yes,1
+2017,8,Nigeria,Africa,12,17,10,57,Google Gemini,42,0.52,Draft,14,0,No,1
+2017,8,Canada,North America,20,18,10,18,Google Gemini,94,0.92,None,23,12,Yes,9
+2017,8,Australia,Oceania,11,18,14,42,ChatGPT,96,0.93,Active,12,4,Yes,3
+2017,9,United States,North America,18,16,10,5,Google Gemini,90,0.9,Active,19,8,No,8
+2017,9,United Kingdom,Europe,16,16,15,27,Google Gemini,92,0.91,Draft,21,5,No,2
+2017,9,China,Asia,16,12,10,45,Khanmigo,70,0.75,Draft,16,1,No,9
+2017,9,India,Asia,14,15,17,32,ChatGPT,50,0.64,Active,17,4,No,9
+2017,9,Germany,Europe,19,17,15,54,Microsoft Copilot,93,0.94,Active,23,7,Yes,5
+2017,9,Brazil,South America,14,10,14,50,Google Gemini,75,0.7,Draft,14,2,Yes,7
+2017,9,Pakistan,Asia,18,12,12,21,Google Gemini,45,0.55,Draft,22,6,No,3
+2017,9,Nigeria,Africa,17,10,11,59,Microsoft Copilot,42,0.52,None,21,3,Yes,5
+2017,9,Canada,North America,16,13,15,38,Khanmigo,94,0.92,Active,19,5,No,1
+2017,9,Australia,Oceania,17,11,13,46,Khanmigo,96,0.93,Draft,21,3,Yes,8
+2017,10,United States,North America,11,11,14,8,ChatGPT,90,0.9,None,16,0,No,7
+2017,10,United Kingdom,Europe,17,16,11,24,ChatGPT,92,0.91,Active,19,3,No,8
+2017,10,China,Asia,11,17,15,59,Microsoft Copilot,70,0.75,Draft,11,1,No,9
+2017,10,India,Asia,16,18,17,35,ChatGPT,50,0.64,Draft,20,2,No,8
+2017,10,Germany,Europe,11,11,13,44,Google Gemini,93,0.94,Active,14,0,Yes,2
+2017,10,Brazil,South America,13,13,13,51,Khanmigo,75,0.7,Draft,18,4,Yes,4
+2017,10,Pakistan,Asia,18,12,16,45,Khanmigo,45,0.55,None,22,6,Yes,3
+2017,10,Nigeria,Africa,16,11,12,39,ChatGPT,42,0.52,Active,21,10,Yes,9
+2017,10,Canada,North America,13,10,16,48,Google Gemini,94,0.92,Draft,17,2,No,10
+2017,10,Australia,Oceania,19,10,13,55,Khanmigo,96,0.93,Draft,22,11,Yes,9
+2017,11,United States,North America,20,18,12,33,Google Gemini,90,0.9,Active,20,5,Yes,8
+2017,11,United Kingdom,Europe,19,17,13,54,Microsoft Copilot,92,0.91,None,23,11,Yes,5
+2017,11,China,Asia,20,15,12,56,Khanmigo,70,0.75,Active,25,9,No,1
+2017,11,India,Asia,20,14,10,54,Microsoft Copilot,50,0.64,Draft,23,10,No,5
+2017,11,Germany,Europe,11,12,13,53,Microsoft Copilot,93,0.94,Draft,14,2,No,2
+2017,11,Brazil,South America,17,18,13,35,Microsoft Copilot,75,0.7,Draft,19,6,No,7
+2017,11,Pakistan,Asia,18,17,17,55,Microsoft Copilot,45,0.55,None,23,8,Yes,10
+2017,11,Nigeria,Africa,13,14,14,13,Microsoft Copilot,42,0.52,None,15,7,Yes,5
+2017,11,Canada,North America,10,10,16,20,Khanmigo,94,0.92,Active,11,0,No,4
+2017,11,Australia,Oceania,18,14,17,44,Khanmigo,96,0.93,Active,21,3,No,8
+2017,12,United States,North America,18,11,15,46,Microsoft Copilot,90,0.9,None,20,3,No,6
+2017,12,United Kingdom,Europe,17,10,17,41,Google Gemini,92,0.91,Draft,18,9,No,10
+2017,12,China,Asia,18,18,14,33,Khanmigo,70,0.75,Draft,18,9,Yes,2
+2017,12,India,Asia,11,11,14,56,Microsoft Copilot,50,0.64,Draft,11,0,No,1
+2017,12,Germany,Europe,13,17,13,13,Google Gemini,93,0.94,None,17,2,No,2
+2017,12,Brazil,South America,13,15,16,34,Microsoft Copilot,75,0.7,None,13,3,Yes,8
+2017,12,Pakistan,Asia,16,18,15,13,Google Gemini,45,0.55,Active,20,9,Yes,8
+2017,12,Nigeria,Africa,19,18,17,6,Khanmigo,42,0.52,Draft,22,9,No,1
+2017,12,Canada,North America,20,13,17,22,Google Gemini,94,0.92,Active,20,15,Yes,1
+2017,12,Australia,Oceania,11,11,12,56,Khanmigo,96,0.93,Draft,12,0,Yes,4
+2018,1,United States,North America,25,22,15,22,Khanmigo,90,0.9,Draft,26,10,Yes,9
+2018,1,United Kingdom,Europe,22,23,20,20,Google Gemini,92,0.91,None,23,12,No,4
+2018,1,China,Asia,17,17,15,53,Khanmigo,70,0.75,None,19,11,Yes,5
+2018,1,India,Asia,18,16,15,51,Microsoft Copilot,50,0.64,Active,23,6,No,5
+2018,1,Germany,Europe,20,22,19,27,Microsoft Copilot,93,0.94,Active,21,11,No,2
+2018,1,Brazil,South America,23,19,18,24,ChatGPT,75,0.7,Draft,23,9,No,10
+2018,1,Pakistan,Asia,17,18,20,39,ChatGPT,45,0.55,Active,19,5,No,9
+2018,1,Nigeria,Africa,16,20,17,31,Microsoft Copilot,42,0.52,Active,17,1,No,7
+2018,1,Canada,North America,18,19,18,50,ChatGPT,94,0.92,None,19,11,Yes,1
+2018,1,Australia,Oceania,17,20,18,12,ChatGPT,96,0.93,Active,17,5,No,5
+2018,2,United States,North America,15,17,20,55,Google Gemini,90,0.9,Draft,19,10,Yes,6
+2018,2,United Kingdom,Europe,16,21,18,6,Google Gemini,92,0.91,Active,19,5,Yes,3
+2018,2,China,Asia,16,23,16,8,Khanmigo,70,0.75,Draft,21,9,No,10
+2018,2,India,Asia,23,23,15,60,ChatGPT,50,0.64,Draft,24,15,Yes,4
+2018,2,Germany,Europe,17,20,19,29,Google Gemini,93,0.94,None,21,2,Yes,2
+2018,2,Brazil,South America,22,18,15,44,Microsoft Copilot,75,0.7,Active,24,13,No,3
+2018,2,Pakistan,Asia,22,21,22,59,Khanmigo,45,0.55,Draft,22,9,No,7
+2018,2,Nigeria,Africa,15,20,15,43,Google Gemini,42,0.52,Draft,15,6,No,4
+2018,2,Canada,North America,16,19,18,43,Microsoft Copilot,94,0.92,None,17,3,No,8
+2018,2,Australia,Oceania,17,23,21,25,Microsoft Copilot,96,0.93,Active,20,8,No,8
+2018,3,United States,North America,23,23,16,38,ChatGPT,90,0.9,None,23,17,No,5
+2018,3,United Kingdom,Europe,22,21,22,22,ChatGPT,92,0.91,None,22,9,No,5
+2018,3,China,Asia,18,18,18,9,Google Gemini,70,0.75,Draft,21,7,No,6
+2018,3,India,Asia,20,23,15,16,ChatGPT,50,0.64,Draft,23,11,Yes,9
+2018,3,Germany,Europe,20,15,22,37,ChatGPT,93,0.94,Draft,24,10,No,5
+2018,3,Brazil,South America,18,18,15,7,Microsoft Copilot,75,0.7,None,21,3,Yes,1
+2018,3,Pakistan,Asia,23,23,20,56,Khanmigo,45,0.55,Draft,25,17,Yes,7
+2018,3,Nigeria,Africa,20,19,18,6,ChatGPT,42,0.52,Active,20,10,No,2
+2018,3,Canada,North America,22,17,21,41,ChatGPT,94,0.92,Active,26,7,No,7
+2018,3,Australia,Oceania,19,18,21,13,Google Gemini,96,0.93,None,22,13,No,10
+2018,4,United States,North America,19,21,18,13,Google Gemini,90,0.9,Active,24,4,No,9
+2018,4,United Kingdom,Europe,16,19,21,58,ChatGPT,92,0.91,Draft,19,1,Yes,2
+2018,4,China,Asia,21,18,15,9,Microsoft Copilot,70,0.75,None,25,8,Yes,8
+2018,4,India,Asia,25,23,22,9,Google Gemini,50,0.64,Draft,26,20,No,10
+2018,4,Germany,Europe,19,17,20,9,ChatGPT,93,0.94,Draft,24,13,Yes,5
+2018,4,Brazil,South America,23,18,18,26,ChatGPT,75,0.7,Active,24,11,No,2
+2018,4,Pakistan,Asia,21,22,15,12,Microsoft Copilot,45,0.55,Draft,21,14,No,1
+2018,4,Nigeria,Africa,18,19,22,22,Khanmigo,42,0.52,Draft,21,4,No,5
+2018,4,Canada,North America,17,22,21,9,Microsoft Copilot,94,0.92,None,19,2,No,9
+2018,4,Australia,Oceania,19,19,21,5,Google Gemini,96,0.93,Active,24,9,No,9
+2018,5,United States,North America,24,23,15,12,Microsoft Copilot,90,0.9,Draft,26,11,Yes,2
+2018,5,United Kingdom,Europe,24,18,20,50,Khanmigo,92,0.91,Draft,26,10,No,4
+2018,5,China,Asia,15,21,20,42,Google Gemini,70,0.75,Draft,16,4,No,10
+2018,5,India,Asia,25,19,17,26,Microsoft Copilot,50,0.64,Active,29,10,Yes,6
+2018,5,Germany,Europe,16,18,22,34,Google Gemini,93,0.94,Draft,16,1,No,5
+2018,5,Brazil,South America,17,20,20,11,Khanmigo,75,0.7,Active,22,8,No,3
+2018,5,Pakistan,Asia,20,21,20,22,Google Gemini,45,0.55,Draft,24,11,Yes,10
+2018,5,Nigeria,Africa,19,23,19,35,Khanmigo,42,0.52,Draft,20,11,Yes,1
+2018,5,Canada,North America,15,23,21,27,Microsoft Copilot,94,0.92,Draft,15,2,Yes,7
+2018,5,Australia,Oceania,23,17,19,51,Khanmigo,96,0.93,Active,28,14,Yes,3
+2018,6,United States,North America,16,15,21,21,ChatGPT,90,0.9,None,17,9,No,4
+2018,6,United Kingdom,Europe,15,16,18,35,Microsoft Copilot,92,0.91,Draft,15,1,No,1
+2018,6,China,Asia,18,18,15,56,ChatGPT,70,0.75,None,21,9,No,6
+2018,6,India,Asia,18,23,17,14,Khanmigo,50,0.64,None,23,5,No,7
+2018,6,Germany,Europe,19,20,19,40,Google Gemini,93,0.94,Draft,19,8,No,1
+2018,6,Brazil,South America,25,18,21,9,ChatGPT,75,0.7,None,30,10,No,7
+2018,6,Pakistan,Asia,22,16,22,18,Google Gemini,45,0.55,Draft,24,16,Yes,10
+2018,6,Nigeria,Africa,16,17,18,5,Khanmigo,42,0.52,Active,21,2,Yes,5
+2018,6,Canada,North America,17,18,18,37,Google Gemini,94,0.92,Active,21,11,Yes,1
+2018,6,Australia,Oceania,17,21,18,9,Microsoft Copilot,96,0.93,Active,18,10,Yes,4
+2018,7,United States,North America,19,23,16,38,Khanmigo,90,0.9,Active,23,13,No,7
+2018,7,United Kingdom,Europe,19,17,20,16,Google Gemini,92,0.91,None,20,4,Yes,5
+2018,7,China,Asia,15,17,21,47,ChatGPT,70,0.75,Active,20,0,Yes,8
+2018,7,India,Asia,22,17,15,8,ChatGPT,50,0.64,Active,27,11,Yes,5
+2018,7,Germany,Europe,21,16,19,7,Microsoft Copilot,93,0.94,Draft,24,10,No,4
+2018,7,Brazil,South America,21,18,19,11,Google Gemini,75,0.7,Draft,21,8,Yes,4
+2018,7,Pakistan,Asia,17,21,20,42,Khanmigo,45,0.55,None,22,3,Yes,8
+2018,7,Nigeria,Africa,18,23,17,26,Microsoft Copilot,42,0.52,Draft,18,4,Yes,1
+2018,7,Canada,North America,15,21,19,56,Khanmigo,94,0.92,Active,15,1,No,3
+2018,7,Australia,Oceania,19,17,19,25,Khanmigo,96,0.93,Active,20,13,Yes,3
+2018,8,United States,North America,18,16,16,30,Google Gemini,90,0.9,Active,22,13,Yes,1
+2018,8,United Kingdom,Europe,24,17,18,29,ChatGPT,92,0.91,Active,24,14,No,3
+2018,8,China,Asia,19,18,17,55,Khanmigo,70,0.75,Draft,20,8,No,5
+2018,8,India,Asia,23,23,15,42,Microsoft Copilot,50,0.64,Active,25,15,No,9
+2018,8,Germany,Europe,17,20,18,39,Khanmigo,93,0.94,Draft,20,9,Yes,9
+2018,8,Brazil,South America,18,15,16,55,ChatGPT,75,0.7,Active,23,9,Yes,1
+2018,8,Pakistan,Asia,22,21,18,32,ChatGPT,45,0.55,Active,25,17,No,9
+2018,8,Nigeria,Africa,16,22,19,44,Khanmigo,42,0.52,Draft,17,10,No,10
+2018,8,Canada,North America,19,16,20,28,Microsoft Copilot,94,0.92,None,20,5,Yes,2
+2018,8,Australia,Oceania,24,21,22,53,ChatGPT,96,0.93,Active,27,14,Yes,4
+2018,9,United States,North America,21,22,16,10,Khanmigo,90,0.9,Draft,21,15,Yes,2
+2018,9,United Kingdom,Europe,20,20,15,39,Khanmigo,92,0.91,None,23,12,Yes,1
+2018,9,China,Asia,20,20,16,9,ChatGPT,70,0.75,None,24,14,Yes,9
+2018,9,India,Asia,15,19,20,55,Khanmigo,50,0.64,Draft,18,1,Yes,3
+2018,9,Germany,Europe,17,19,18,15,Google Gemini,93,0.94,None,21,8,No,5
+2018,9,Brazil,South America,24,17,16,5,Khanmigo,75,0.7,Draft,28,17,No,9
+2018,9,Pakistan,Asia,16,23,16,27,Khanmigo,45,0.55,Active,19,11,No,6
+2018,9,Nigeria,Africa,19,21,17,38,ChatGPT,42,0.52,None,24,5,Yes,3
+2018,9,Canada,North America,17,18,19,39,Google Gemini,94,0.92,Active,20,3,No,3
+2018,9,Australia,Oceania,16,22,18,25,Google Gemini,96,0.93,Draft,16,10,Yes,10
+2018,10,United States,North America,22,22,15,50,ChatGPT,90,0.9,Active,24,17,No,4
+2018,10,United Kingdom,Europe,24,15,17,40,Google Gemini,92,0.91,None,29,11,Yes,3
+2018,10,China,Asia,23,21,16,9,Microsoft Copilot,70,0.75,None,28,11,No,10
+2018,10,India,Asia,18,22,19,18,ChatGPT,50,0.64,Draft,18,13,No,4
+2018,10,Germany,Europe,24,20,20,38,Microsoft Copilot,93,0.94,Draft,26,10,Yes,6
+2018,10,Brazil,South America,21,19,22,21,Khanmigo,75,0.7,Active,26,10,No,4
+2018,10,Pakistan,Asia,16,20,17,17,Microsoft Copilot,45,0.55,Draft,18,8,Yes,10
+2018,10,Nigeria,Africa,21,18,21,13,Microsoft Copilot,42,0.52,None,22,12,No,3
+2018,10,Canada,North America,20,17,17,30,Khanmigo,94,0.92,Active,22,14,No,8
+2018,10,Australia,Oceania,20,22,18,32,Microsoft Copilot,96,0.93,None,21,5,No,10
+2018,11,United States,North America,17,23,20,15,Khanmigo,90,0.9,Draft,18,2,No,10
+2018,11,United Kingdom,Europe,15,18,22,18,Microsoft Copilot,92,0.91,Draft,15,10,No,1
+2018,11,China,Asia,17,22,15,6,Microsoft Copilot,70,0.75,Active,17,9,Yes,3
+2018,11,India,Asia,25,16,15,33,Khanmigo,50,0.64,Draft,28,18,Yes,5
+2018,11,Germany,Europe,23,18,21,28,Google Gemini,93,0.94,None,27,10,No,3
+2018,11,Brazil,South America,16,19,21,6,Microsoft Copilot,75,0.7,Active,19,8,Yes,2
+2018,11,Pakistan,Asia,21,16,20,26,Khanmigo,45,0.55,None,22,8,Yes,3
+2018,11,Nigeria,Africa,16,19,21,23,ChatGPT,42,0.52,Draft,16,1,No,9
+2018,11,Canada,North America,23,17,18,13,Microsoft Copilot,94,0.92,Draft,27,11,No,9
+2018,11,Australia,Oceania,17,20,16,6,Khanmigo,96,0.93,Draft,20,6,No,6
+2018,12,United States,North America,18,23,17,52,Microsoft Copilot,90,0.9,Active,21,7,No,9
+2018,12,United Kingdom,Europe,16,16,21,42,Google Gemini,92,0.91,None,21,8,No,5
+2018,12,China,Asia,18,18,21,13,Khanmigo,70,0.75,None,20,7,Yes,7
+2018,12,India,Asia,22,23,15,41,Khanmigo,50,0.64,Active,24,9,No,3
+2018,12,Germany,Europe,19,19,18,23,Microsoft Copilot,93,0.94,None,22,7,Yes,10
+2018,12,Brazil,South America,17,23,16,23,Google Gemini,75,0.7,Active,21,9,Yes,2
+2018,12,Pakistan,Asia,23,20,16,33,ChatGPT,45,0.55,Active,27,16,Yes,4
+2018,12,Nigeria,Africa,17,19,16,48,Microsoft Copilot,42,0.52,Active,21,12,No,4
+2018,12,Canada,North America,24,15,21,47,Khanmigo,94,0.92,None,25,16,No,6
+2018,12,Australia,Oceania,18,16,21,51,Microsoft Copilot,96,0.93,None,23,11,No,6
+2019,1,United States,North America,23,23,25,36,ChatGPT,90,0.9,Draft,27,9,No,4
+2019,1,United Kingdom,Europe,26,21,27,53,Google Gemini,92,0.91,Draft,31,21,Yes,5
+2019,1,China,Asia,27,26,22,29,Khanmigo,70,0.75,None,32,20,No,4
+2019,1,India,Asia,30,23,23,26,Khanmigo,50,0.64,Draft,30,24,No,9
+2019,1,Germany,Europe,21,20,27,49,Microsoft Copilot,93,0.94,None,25,14,No,2
+2019,1,Brazil,South America,24,22,20,40,ChatGPT,75,0.7,Active,29,10,No,9
+2019,1,Pakistan,Asia,28,28,25,55,Microsoft Copilot,45,0.55,Active,28,14,Yes,8
+2019,1,Nigeria,Africa,24,24,27,42,Microsoft Copilot,42,0.52,None,27,16,Yes,1
+2019,1,Canada,North America,20,23,21,35,ChatGPT,94,0.92,None,22,14,Yes,2
+2019,1,Australia,Oceania,22,23,21,48,Khanmigo,96,0.93,None,25,17,Yes,3
+2019,2,United States,North America,28,20,23,6,ChatGPT,90,0.9,None,28,16,Yes,10
+2019,2,United Kingdom,Europe,29,24,26,59,Microsoft Copilot,92,0.91,Draft,33,19,Yes,10
+2019,2,China,Asia,23,23,20,21,ChatGPT,70,0.75,None,26,14,Yes,9
+2019,2,India,Asia,22,21,24,33,Khanmigo,50,0.64,Active,25,15,No,7
+2019,2,Germany,Europe,20,22,21,17,Google Gemini,93,0.94,Draft,25,5,Yes,3
+2019,2,Brazil,South America,25,21,21,50,Google Gemini,75,0.7,None,26,18,No,5
+2019,2,Pakistan,Asia,29,25,20,21,Khanmigo,45,0.55,Active,32,16,Yes,10
+2019,2,Nigeria,Africa,21,24,24,49,Microsoft Copilot,42,0.52,Draft,24,16,Yes,4
+2019,2,Canada,North America,26,23,22,12,Khanmigo,94,0.92,None,26,11,No,4
+2019,2,Australia,Oceania,21,24,24,47,Google Gemini,96,0.93,None,23,12,Yes,3
+2019,3,United States,North America,20,25,25,37,Microsoft Copilot,90,0.9,Draft,20,7,Yes,8
+2019,3,United Kingdom,Europe,23,26,26,46,Microsoft Copilot,92,0.91,Draft,24,10,Yes,3
+2019,3,China,Asia,29,25,27,15,ChatGPT,70,0.75,Draft,33,17,No,8
+2019,3,India,Asia,29,22,23,5,ChatGPT,50,0.64,Draft,29,21,No,2
+2019,3,Germany,Europe,30,22,23,23,ChatGPT,93,0.94,Draft,30,18,No,4
+2019,3,Brazil,South America,27,25,26,39,Microsoft Copilot,75,0.7,Active,31,21,Yes,5
+2019,3,Pakistan,Asia,23,22,22,42,Khanmigo,45,0.55,Draft,23,11,Yes,10
+2019,3,Nigeria,Africa,23,22,25,52,Microsoft Copilot,42,0.52,None,27,17,No,1
+2019,3,Canada,North America,22,24,23,43,ChatGPT,94,0.92,Active,26,15,No,10
+2019,3,Australia,Oceania,21,23,26,54,Microsoft Copilot,96,0.93,None,24,7,Yes,2
+2019,4,United States,North America,25,25,23,12,Google Gemini,90,0.9,Draft,28,11,Yes,6
+2019,4,United Kingdom,Europe,22,24,20,53,Google Gemini,92,0.91,Draft,25,16,Yes,8
+2019,4,China,Asia,28,27,21,38,ChatGPT,70,0.75,Draft,29,23,No,3
+2019,4,India,Asia,30,26,21,46,Khanmigo,50,0.64,Active,34,23,No,3
+2019,4,Germany,Europe,26,20,27,37,Khanmigo,93,0.94,None,29,21,Yes,2
+2019,4,Brazil,South America,27,20,21,21,Khanmigo,75,0.7,Active,29,14,Yes,1
+2019,4,Pakistan,Asia,24,22,27,43,ChatGPT,45,0.55,None,29,11,Yes,4
+2019,4,Nigeria,Africa,30,22,26,37,Microsoft Copilot,42,0.52,Draft,34,20,No,9
+2019,4,Canada,North America,22,21,23,42,Microsoft Copilot,94,0.92,None,26,17,No,4
+2019,4,Australia,Oceania,27,24,22,13,Khanmigo,96,0.93,None,29,18,Yes,4
+2019,5,United States,North America,24,22,22,12,Khanmigo,90,0.9,Active,27,13,No,8
+2019,5,United Kingdom,Europe,22,28,22,29,Google Gemini,92,0.91,Draft,27,7,No,3
+2019,5,China,Asia,24,21,22,40,Google Gemini,70,0.75,Draft,28,12,Yes,6
+2019,5,India,Asia,25,26,23,31,ChatGPT,50,0.64,Draft,30,15,No,10
+2019,5,Germany,Europe,23,25,21,25,Google Gemini,93,0.94,Draft,27,13,No,8
+2019,5,Brazil,South America,27,23,26,23,ChatGPT,75,0.7,None,29,17,Yes,2
+2019,5,Pakistan,Asia,27,20,23,39,Khanmigo,45,0.55,None,27,21,No,8
+2019,5,Nigeria,Africa,27,28,25,52,Khanmigo,42,0.52,Draft,28,21,Yes,9
+2019,5,Canada,North America,21,28,25,44,Khanmigo,94,0.92,Active,24,14,Yes,10
+2019,5,Australia,Oceania,30,24,21,10,Khanmigo,96,0.93,Active,31,18,Yes,10
+2019,6,United States,North America,24,26,25,39,ChatGPT,90,0.9,Active,25,18,No,3
+2019,6,United Kingdom,Europe,27,23,20,49,Khanmigo,92,0.91,Active,29,16,No,1
+2019,6,China,Asia,29,26,26,24,Khanmigo,70,0.75,Active,30,15,No,1
+2019,6,India,Asia,28,22,24,34,Khanmigo,50,0.64,None,33,23,Yes,9
+2019,6,Germany,Europe,30,22,26,22,Google Gemini,93,0.94,Active,35,19,Yes,2
+2019,6,Brazil,South America,24,22,24,16,Google Gemini,75,0.7,Draft,26,15,Yes,6
+2019,6,Pakistan,Asia,26,26,25,20,Khanmigo,45,0.55,Draft,28,15,No,1
+2019,6,Nigeria,Africa,27,23,24,56,ChatGPT,42,0.52,Draft,28,18,Yes,2
+2019,6,Canada,North America,22,26,26,20,Khanmigo,94,0.92,None,24,9,No,5
+2019,6,Australia,Oceania,29,27,21,5,Khanmigo,96,0.93,Active,32,16,Yes,10
+2019,7,United States,North America,26,27,25,21,Google Gemini,90,0.9,None,30,15,No,4
+2019,7,United Kingdom,Europe,27,22,25,38,Google Gemini,92,0.91,Draft,32,19,No,7
+2019,7,China,Asia,24,21,22,10,Google Gemini,70,0.75,Draft,26,18,Yes,9
+2019,7,India,Asia,22,23,24,40,Google Gemini,50,0.64,None,22,8,No,9
+2019,7,Germany,Europe,28,27,27,45,Google Gemini,93,0.94,Active,29,21,No,10
+2019,7,Brazil,South America,29,26,23,25,ChatGPT,75,0.7,Active,30,16,No,3
+2019,7,Pakistan,Asia,20,20,21,24,ChatGPT,45,0.55,Active,25,7,No,10
+2019,7,Nigeria,Africa,30,24,23,33,Khanmigo,42,0.52,None,30,17,No,7
+2019,7,Canada,North America,29,24,26,27,ChatGPT,94,0.92,Draft,32,15,No,6
+2019,7,Australia,Oceania,21,20,23,44,ChatGPT,96,0.93,Active,21,8,No,1
+2019,8,United States,North America,29,21,23,22,Google Gemini,90,0.9,Active,30,18,Yes,1
+2019,8,United Kingdom,Europe,26,22,26,23,Khanmigo,92,0.91,Draft,30,13,No,10
+2019,8,China,Asia,28,24,23,15,Microsoft Copilot,70,0.75,Draft,32,13,Yes,6
+2019,8,India,Asia,23,22,27,34,Khanmigo,50,0.64,None,25,12,No,4
+2019,8,Germany,Europe,30,27,25,47,Microsoft Copilot,93,0.94,Active,33,23,No,7
+2019,8,Brazil,South America,22,26,22,21,Khanmigo,75,0.7,Active,22,11,Yes,10
+2019,8,Pakistan,Asia,28,21,23,34,Google Gemini,45,0.55,None,29,14,No,6
+2019,8,Nigeria,Africa,25,22,21,15,ChatGPT,42,0.52,Active,29,16,No,9
+2019,8,Canada,North America,27,20,21,36,Khanmigo,94,0.92,Active,30,14,No,8
+2019,8,Australia,Oceania,23,26,27,23,Google Gemini,96,0.93,None,25,17,No,3
+2019,9,United States,North America,29,22,23,11,Khanmigo,90,0.9,None,34,17,Yes,8
+2019,9,United Kingdom,Europe,26,26,21,52,Khanmigo,92,0.91,None,31,20,No,5
+2019,9,China,Asia,22,23,23,50,Microsoft Copilot,70,0.75,Active,26,11,No,10
+2019,9,India,Asia,25,28,22,30,Khanmigo,50,0.64,Active,26,17,Yes,3
+2019,9,Germany,Europe,30,25,27,45,Google Gemini,93,0.94,Active,31,20,Yes,8
+2019,9,Brazil,South America,22,20,22,39,ChatGPT,75,0.7,Active,24,8,Yes,2
+2019,9,Pakistan,Asia,24,28,27,24,Microsoft Copilot,45,0.55,None,29,9,No,5
+2019,9,Nigeria,Africa,29,23,25,41,Microsoft Copilot,42,0.52,Active,29,17,Yes,8
+2019,9,Canada,North America,24,28,27,34,Khanmigo,94,0.92,Draft,26,11,Yes,2
+2019,9,Australia,Oceania,23,25,25,13,Google Gemini,96,0.93,None,25,12,Yes,5
+2019,10,United States,North America,28,20,27,10,Khanmigo,90,0.9,None,32,15,No,4
+2019,10,United Kingdom,Europe,28,25,20,54,ChatGPT,92,0.91,Active,30,21,Yes,7
+2019,10,China,Asia,25,24,21,53,Microsoft Copilot,70,0.75,None,30,14,No,9
+2019,10,India,Asia,26,24,24,10,Google Gemini,50,0.64,Active,28,11,No,6
+2019,10,Germany,Europe,23,25,22,51,ChatGPT,93,0.94,Active,26,12,Yes,6
+2019,10,Brazil,South America,29,22,22,24,Khanmigo,75,0.7,None,34,17,No,4
+2019,10,Pakistan,Asia,28,23,26,53,Google Gemini,45,0.55,Active,30,20,Yes,7
+2019,10,Nigeria,Africa,29,23,23,26,Khanmigo,42,0.52,Draft,31,20,No,7
+2019,10,Canada,North America,25,24,25,32,Khanmigo,94,0.92,None,26,11,No,9
+2019,10,Australia,Oceania,27,23,27,29,ChatGPT,96,0.93,Draft,31,18,Yes,9
+2019,11,United States,North America,26,20,24,58,Microsoft Copilot,90,0.9,Draft,31,12,Yes,8
+2019,11,United Kingdom,Europe,20,23,22,17,ChatGPT,92,0.91,Draft,21,12,Yes,9
+2019,11,China,Asia,24,22,23,18,Microsoft Copilot,70,0.75,Draft,29,9,No,8
+2019,11,India,Asia,27,24,23,51,Khanmigo,50,0.64,Active,32,17,Yes,2
+2019,11,Germany,Europe,23,26,22,19,Google Gemini,93,0.94,Active,26,15,No,3
+2019,11,Brazil,South America,21,26,25,19,Microsoft Copilot,75,0.7,None,25,12,Yes,7
+2019,11,Pakistan,Asia,27,23,25,30,Khanmigo,45,0.55,Active,29,20,Yes,9
+2019,11,Nigeria,Africa,25,23,23,29,Khanmigo,42,0.52,None,28,11,No,9
+2019,11,Canada,North America,27,23,20,24,Google Gemini,94,0.92,Active,29,13,No,6
+2019,11,Australia,Oceania,25,27,22,60,ChatGPT,96,0.93,Active,28,15,No,10
+2019,12,United States,North America,30,23,23,32,Khanmigo,90,0.9,None,33,19,No,5
+2019,12,United Kingdom,Europe,20,26,24,46,Microsoft Copilot,92,0.91,None,23,8,No,9
+2019,12,China,Asia,27,26,21,58,Microsoft Copilot,70,0.75,None,32,12,No,3
+2019,12,India,Asia,28,28,27,33,Microsoft Copilot,50,0.64,Draft,32,23,No,5
+2019,12,Germany,Europe,21,20,26,29,Microsoft Copilot,93,0.94,None,25,7,Yes,7
+2019,12,Brazil,South America,30,27,20,34,ChatGPT,75,0.7,Draft,33,25,Yes,9
+2019,12,Pakistan,Asia,24,26,25,32,Microsoft Copilot,45,0.55,Draft,24,14,No,8
+2019,12,Nigeria,Africa,29,22,25,52,Microsoft Copilot,42,0.52,Active,34,24,No,6
+2019,12,Canada,North America,24,27,27,14,ChatGPT,94,0.92,Draft,26,18,No,6
+2019,12,Australia,Oceania,26,26,22,45,Microsoft Copilot,96,0.93,None,26,11,Yes,3
+2020,1,United States,North America,25,30,26,27,Khanmigo,90,0.9,None,25,16,Yes,9
+2020,1,United Kingdom,Europe,35,28,31,9,Google Gemini,92,0.91,None,35,29,Yes,8
+2020,1,China,Asia,26,28,25,51,ChatGPT,70,0.75,Active,26,18,Yes,3
+2020,1,India,Asia,34,30,32,15,Google Gemini,50,0.64,Active,36,26,Yes,10
+2020,1,Germany,Europe,29,32,27,27,Google Gemini,93,0.94,None,33,22,Yes,3
+2020,1,Brazil,South America,25,29,31,45,Microsoft Copilot,75,0.7,None,25,19,No,9
+2020,1,Pakistan,Asia,32,26,32,55,Google Gemini,45,0.55,Draft,33,19,Yes,5
+2020,1,Nigeria,Africa,25,31,27,32,Google Gemini,42,0.52,None,25,16,Yes,4
+2020,1,Canada,North America,33,30,26,52,Google Gemini,94,0.92,Draft,34,18,No,8
+2020,1,Australia,Oceania,29,29,28,48,Khanmigo,96,0.93,Active,34,18,Yes,9
+2020,2,United States,North America,27,33,32,36,Khanmigo,90,0.9,Active,29,14,Yes,6
+2020,2,United Kingdom,Europe,28,27,31,48,Khanmigo,92,0.91,Draft,33,19,No,2
+2020,2,China,Asia,35,33,26,37,ChatGPT,70,0.75,None,36,28,Yes,5
+2020,2,India,Asia,27,31,29,25,ChatGPT,50,0.64,None,31,13,No,9
+2020,2,Germany,Europe,30,28,29,16,Microsoft Copilot,93,0.94,None,34,18,Yes,4
+2020,2,Brazil,South America,33,29,27,45,ChatGPT,75,0.7,None,36,23,Yes,6
+2020,2,Pakistan,Asia,31,27,27,13,Khanmigo,45,0.55,Draft,34,23,No,2
+2020,2,Nigeria,Africa,25,27,26,30,Microsoft Copilot,42,0.52,Draft,29,17,Yes,4
+2020,2,Canada,North America,33,30,28,28,Google Gemini,94,0.92,Active,37,18,Yes,8
+2020,2,Australia,Oceania,28,28,28,33,Khanmigo,96,0.93,Draft,29,15,No,5
+2020,3,United States,North America,32,32,29,54,ChatGPT,90,0.9,Active,32,24,No,9
+2020,3,United Kingdom,Europe,34,28,25,12,ChatGPT,92,0.91,Active,37,27,No,5
+2020,3,China,Asia,35,25,31,48,ChatGPT,70,0.75,Draft,38,29,Yes,3
+2020,3,India,Asia,30,32,29,48,Google Gemini,50,0.64,Draft,31,22,No,6
+2020,3,Germany,Europe,32,25,26,25,ChatGPT,93,0.94,Active,35,24,Yes,5
+2020,3,Brazil,South America,26,33,26,48,Microsoft Copilot,75,0.7,Draft,28,15,No,4
+2020,3,Pakistan,Asia,35,28,27,52,Khanmigo,45,0.55,Draft,37,24,Yes,6
+2020,3,Nigeria,Africa,34,29,32,60,Khanmigo,42,0.52,None,35,20,No,10
+2020,3,Canada,North America,35,32,28,58,Microsoft Copilot,94,0.92,None,39,23,No,5
+2020,3,Australia,Oceania,34,33,30,25,Google Gemini,96,0.93,Draft,37,28,No,1
+2020,4,United States,North America,29,25,31,43,Google Gemini,90,0.9,None,33,14,No,6
+2020,4,United Kingdom,Europe,26,27,28,36,ChatGPT,92,0.91,None,26,16,No,7
+2020,4,China,Asia,25,25,28,16,Google Gemini,70,0.75,None,26,19,No,1
+2020,4,India,Asia,29,32,29,43,Microsoft Copilot,50,0.64,None,30,22,No,3
+2020,4,Germany,Europe,35,27,31,14,Microsoft Copilot,93,0.94,None,39,29,No,7
+2020,4,Brazil,South America,34,25,27,55,ChatGPT,75,0.7,Draft,37,21,No,4
+2020,4,Pakistan,Asia,28,33,30,49,Khanmigo,45,0.55,Active,30,18,No,5
+2020,4,Nigeria,Africa,29,27,29,59,Microsoft Copilot,42,0.52,Draft,34,20,Yes,1
+2020,4,Canada,North America,25,32,32,33,Microsoft Copilot,94,0.92,Active,27,18,Yes,10
+2020,4,Australia,Oceania,32,33,32,22,ChatGPT,96,0.93,Active,34,20,Yes,10
+2020,5,United States,North America,31,29,29,35,ChatGPT,90,0.9,Active,33,17,Yes,5
+2020,5,United Kingdom,Europe,27,31,31,51,Google Gemini,92,0.91,Draft,30,12,No,1
+2020,5,China,Asia,27,29,25,39,ChatGPT,70,0.75,None,27,21,Yes,4
+2020,5,India,Asia,25,30,26,60,ChatGPT,50,0.64,Active,27,13,Yes,4
+2020,5,Germany,Europe,28,30,29,50,Microsoft Copilot,93,0.94,Draft,31,18,No,2
+2020,5,Brazil,South America,26,25,29,13,Microsoft Copilot,75,0.7,None,29,15,No,4
+2020,5,Pakistan,Asia,31,26,27,51,Microsoft Copilot,45,0.55,Active,33,19,No,4
+2020,5,Nigeria,Africa,26,29,32,40,Khanmigo,42,0.52,Active,31,17,No,1
+2020,5,Canada,North America,30,27,25,30,Khanmigo,94,0.92,None,31,23,Yes,8
+2020,5,Australia,Oceania,29,29,27,20,ChatGPT,96,0.93,Draft,31,14,Yes,1
+2020,6,United States,North America,28,30,27,8,Google Gemini,90,0.9,Draft,28,19,No,9
+2020,6,United Kingdom,Europe,31,25,30,33,Microsoft Copilot,92,0.91,None,31,20,Yes,6
+2020,6,China,Asia,32,33,27,9,Microsoft Copilot,70,0.75,Draft,34,18,No,5
+2020,6,India,Asia,34,33,28,21,Google Gemini,50,0.64,None,35,29,Yes,3
+2020,6,Germany,Europe,25,27,26,25,ChatGPT,93,0.94,Draft,29,19,No,4
+2020,6,Brazil,South America,29,32,29,58,Microsoft Copilot,75,0.7,Draft,34,23,Yes,9
+2020,6,Pakistan,Asia,28,28,29,42,ChatGPT,45,0.55,Draft,32,15,Yes,3
+2020,6,Nigeria,Africa,32,33,26,53,Microsoft Copilot,42,0.52,None,35,22,Yes,2
+2020,6,Canada,North America,32,32,32,15,Google Gemini,94,0.92,Draft,33,26,No,7
+2020,6,Australia,Oceania,26,31,25,43,ChatGPT,96,0.93,Draft,30,14,No,5
+2020,7,United States,North America,33,29,25,53,Google Gemini,90,0.9,Active,38,24,Yes,9
+2020,7,United Kingdom,Europe,35,33,25,51,Khanmigo,92,0.91,Active,38,20,No,1
+2020,7,China,Asia,35,29,30,36,Khanmigo,70,0.75,Active,38,21,Yes,7
+2020,7,India,Asia,25,33,31,32,Khanmigo,50,0.64,Active,26,18,No,4
+2020,7,Germany,Europe,27,26,29,49,Microsoft Copilot,93,0.94,Draft,32,17,No,3
+2020,7,Brazil,South America,34,26,26,7,Google Gemini,75,0.7,Active,34,28,No,9
+2020,7,Pakistan,Asia,32,32,31,30,Microsoft Copilot,45,0.55,Draft,37,18,No,6
+2020,7,Nigeria,Africa,25,28,30,37,Khanmigo,42,0.52,Active,26,15,No,7
+2020,7,Canada,North America,31,30,28,10,ChatGPT,94,0.92,None,33,23,No,6
+2020,7,Australia,Oceania,32,29,28,50,Microsoft Copilot,96,0.93,None,34,26,Yes,8
+2020,8,United States,North America,33,26,27,58,Microsoft Copilot,90,0.9,None,36,26,Yes,1
+2020,8,United Kingdom,Europe,26,31,25,49,Khanmigo,92,0.91,Active,26,14,Yes,7
+2020,8,China,Asia,30,25,31,20,Microsoft Copilot,70,0.75,None,33,20,No,7
+2020,8,India,Asia,35,33,28,25,ChatGPT,50,0.64,Active,37,21,Yes,2
+2020,8,Germany,Europe,30,28,30,32,ChatGPT,93,0.94,Active,33,21,No,5
+2020,8,Brazil,South America,26,27,30,32,Microsoft Copilot,75,0.7,None,31,16,No,4
+2020,8,Pakistan,Asia,28,27,32,33,Khanmigo,45,0.55,None,30,20,Yes,6
+2020,8,Nigeria,Africa,27,27,25,23,Google Gemini,42,0.52,Draft,30,18,No,7
+2020,8,Canada,North America,26,33,31,33,Microsoft Copilot,94,0.92,Active,29,17,Yes,10
+2020,8,Australia,Oceania,31,28,31,10,ChatGPT,96,0.93,Draft,32,23,Yes,5
+2020,9,United States,North America,31,25,26,44,Khanmigo,90,0.9,Draft,33,16,Yes,10
+2020,9,United Kingdom,Europe,33,31,27,12,Khanmigo,92,0.91,None,36,21,No,4
+2020,9,China,Asia,31,26,26,32,Khanmigo,70,0.75,None,35,26,No,3
+2020,9,India,Asia,25,33,29,42,Google Gemini,50,0.64,Draft,25,13,No,6
+2020,9,Germany,Europe,27,28,29,48,Microsoft Copilot,93,0.94,None,28,22,Yes,6
+2020,9,Brazil,South America,27,28,25,37,ChatGPT,75,0.7,None,31,22,Yes,3
+2020,9,Pakistan,Asia,28,27,26,54,Khanmigo,45,0.55,None,30,21,No,5
+2020,9,Nigeria,Africa,34,33,28,13,ChatGPT,42,0.52,None,37,29,Yes,5
+2020,9,Canada,North America,31,29,27,52,Microsoft Copilot,94,0.92,None,33,18,No,1
+2020,9,Australia,Oceania,33,29,28,44,Google Gemini,96,0.93,None,34,21,Yes,3
+2020,10,United States,North America,32,31,32,23,Khanmigo,90,0.9,None,33,26,Yes,7
+2020,10,United Kingdom,Europe,27,29,26,23,ChatGPT,92,0.91,None,31,12,Yes,1
+2020,10,China,Asia,33,32,28,44,ChatGPT,70,0.75,None,36,24,No,3
+2020,10,India,Asia,27,31,26,26,Microsoft Copilot,50,0.64,Active,30,20,Yes,3
+2020,10,Germany,Europe,32,31,31,39,Google Gemini,93,0.94,Active,36,18,Yes,6
+2020,10,Brazil,South America,25,28,31,23,Microsoft Copilot,75,0.7,Draft,26,17,Yes,10
+2020,10,Pakistan,Asia,28,32,25,48,Google Gemini,45,0.55,Draft,31,14,Yes,10
+2020,10,Nigeria,Africa,32,27,31,21,Khanmigo,42,0.52,Active,35,18,No,1
+2020,10,Canada,North America,34,33,32,51,Khanmigo,94,0.92,Active,34,26,No,3
+2020,10,Australia,Oceania,28,32,26,41,Google Gemini,96,0.93,Draft,29,22,Yes,5
+2020,11,United States,North America,35,33,29,40,Microsoft Copilot,90,0.9,None,38,25,Yes,9
+2020,11,United Kingdom,Europe,34,29,32,32,Microsoft Copilot,92,0.91,Active,36,23,No,8
+2020,11,China,Asia,33,30,25,41,Microsoft Copilot,70,0.75,Active,35,28,No,10
+2020,11,India,Asia,27,26,31,14,Khanmigo,50,0.64,None,32,13,No,5
+2020,11,Germany,Europe,32,32,26,5,Google Gemini,93,0.94,Active,34,21,Yes,1
+2020,11,Brazil,South America,28,33,32,31,Khanmigo,75,0.7,Active,30,15,No,6
+2020,11,Pakistan,Asia,31,29,31,30,Google Gemini,45,0.55,Active,35,16,Yes,3
+2020,11,Nigeria,Africa,29,32,28,55,Google Gemini,42,0.52,Draft,33,18,No,3
+2020,11,Canada,North America,28,29,25,44,Khanmigo,94,0.92,Active,33,18,No,8
+2020,11,Australia,Oceania,30,25,30,39,Khanmigo,96,0.93,Active,34,19,No,6
+2020,12,United States,North America,30,29,29,8,Google Gemini,90,0.9,Draft,35,25,No,1
+2020,12,United Kingdom,Europe,25,28,26,33,ChatGPT,92,0.91,Draft,26,10,No,10
+2020,12,China,Asia,32,25,31,17,Microsoft Copilot,70,0.75,Draft,32,25,Yes,6
+2020,12,India,Asia,35,31,29,31,ChatGPT,50,0.64,Draft,37,30,Yes,1
+2020,12,Germany,Europe,30,32,29,44,Google Gemini,93,0.94,None,31,21,No,9
+2020,12,Brazil,South America,32,26,26,9,ChatGPT,75,0.7,None,33,18,Yes,4
+2020,12,Pakistan,Asia,34,29,29,41,Khanmigo,45,0.55,Draft,36,23,Yes,7
+2020,12,Nigeria,Africa,27,29,31,33,Microsoft Copilot,42,0.52,None,30,15,Yes,8
+2020,12,Canada,North America,35,29,27,7,Khanmigo,94,0.92,Draft,35,23,No,3
+2020,12,Australia,Oceania,32,30,29,37,ChatGPT,96,0.93,Draft,32,18,No,10
+2021,1,United States,North America,40,32,30,43,Microsoft Copilot,90,0.9,Active,43,26,Yes,5
+2021,1,United Kingdom,Europe,40,32,34,53,ChatGPT,92,0.91,Draft,41,33,No,8
+2021,1,China,Asia,30,32,36,12,ChatGPT,70,0.75,Active,31,16,No,10
+2021,1,India,Asia,34,33,35,56,Google Gemini,50,0.64,Draft,37,21,No,4
+2021,1,Germany,Europe,32,35,32,33,Google Gemini,93,0.94,None,35,25,Yes,6
+2021,1,Brazil,South America,31,33,37,17,Microsoft Copilot,75,0.7,Active,32,22,Yes,10
+2021,1,Pakistan,Asia,35,31,31,52,Microsoft Copilot,45,0.55,Active,40,24,No,4
+2021,1,Nigeria,Africa,32,30,33,12,Microsoft Copilot,42,0.52,None,33,17,No,10
+2021,1,Canada,North America,40,37,35,54,Khanmigo,94,0.92,None,42,29,No,1
+2021,1,Australia,Oceania,36,32,34,25,Google Gemini,96,0.93,Draft,37,25,No,2
+2021,2,United States,North America,39,35,35,39,Microsoft Copilot,90,0.9,Active,43,26,No,6
+2021,2,United Kingdom,Europe,39,37,36,59,Google Gemini,92,0.91,Active,40,30,No,4
+2021,2,China,Asia,31,32,31,52,Microsoft Copilot,70,0.75,None,31,21,No,10
+2021,2,India,Asia,33,33,35,56,Microsoft Copilot,50,0.64,Active,34,24,Yes,7
+2021,2,Germany,Europe,36,36,36,13,Microsoft Copilot,93,0.94,None,37,29,Yes,7
+2021,2,Brazil,South America,30,38,36,12,ChatGPT,75,0.7,Draft,33,21,Yes,4
+2021,2,Pakistan,Asia,32,35,35,35,Google Gemini,45,0.55,Draft,33,22,Yes,5
+2021,2,Nigeria,Africa,37,31,34,30,ChatGPT,42,0.52,None,41,29,No,6
+2021,2,Canada,North America,36,36,35,44,Khanmigo,94,0.92,Active,36,22,Yes,1
+2021,2,Australia,Oceania,31,30,36,31,Microsoft Copilot,96,0.93,Draft,34,17,Yes,9
+2021,3,United States,North America,31,34,32,42,Microsoft Copilot,90,0.9,None,35,20,No,2
+2021,3,United Kingdom,Europe,37,37,30,41,Google Gemini,92,0.91,None,37,25,Yes,4
+2021,3,China,Asia,39,30,35,48,Khanmigo,70,0.75,None,40,30,Yes,3
+2021,3,India,Asia,34,30,31,23,ChatGPT,50,0.64,Draft,35,23,Yes,6
+2021,3,Germany,Europe,37,37,37,34,Microsoft Copilot,93,0.94,Draft,41,23,Yes,3
+2021,3,Brazil,South America,38,36,30,24,Khanmigo,75,0.7,Active,39,24,Yes,4
+2021,3,Pakistan,Asia,35,38,35,37,Google Gemini,45,0.55,Draft,37,26,No,5
+2021,3,Nigeria,Africa,37,37,30,50,Microsoft Copilot,42,0.52,Draft,42,22,No,1
+2021,3,Canada,North America,32,31,31,59,Google Gemini,94,0.92,Draft,32,24,Yes,4
+2021,3,Australia,Oceania,37,37,35,56,ChatGPT,96,0.93,Active,42,25,Yes,9
+2021,4,United States,North America,40,35,30,27,Microsoft Copilot,90,0.9,Draft,41,35,Yes,10
+2021,4,United Kingdom,Europe,30,37,35,39,Khanmigo,92,0.91,Draft,31,19,No,6
+2021,4,China,Asia,40,36,33,42,Microsoft Copilot,70,0.75,Draft,43,25,Yes,6
+2021,4,India,Asia,33,33,36,14,ChatGPT,50,0.64,Active,33,26,Yes,6
+2021,4,Germany,Europe,33,32,33,19,ChatGPT,93,0.94,Draft,38,28,No,5
+2021,4,Brazil,South America,40,33,32,17,ChatGPT,75,0.7,Active,43,35,Yes,7
+2021,4,Pakistan,Asia,35,30,35,10,ChatGPT,45,0.55,None,37,23,Yes,10
+2021,4,Nigeria,Africa,40,33,30,10,Khanmigo,42,0.52,None,41,30,No,9
+2021,4,Canada,North America,32,33,36,49,Khanmigo,94,0.92,Active,32,21,No,5
+2021,4,Australia,Oceania,39,37,30,34,Khanmigo,96,0.93,Draft,43,25,Yes,3
+2021,5,United States,North America,33,38,35,26,Google Gemini,90,0.9,Active,38,23,Yes,9
+2021,5,United Kingdom,Europe,40,35,32,8,Google Gemini,92,0.91,Draft,41,29,No,6
+2021,5,China,Asia,30,35,31,37,Khanmigo,70,0.75,Draft,32,23,No,9
+2021,5,India,Asia,36,32,32,30,Khanmigo,50,0.64,Active,38,30,No,9
+2021,5,Germany,Europe,37,37,34,7,Google Gemini,93,0.94,Draft,42,32,No,2
+2021,5,Brazil,South America,39,38,31,55,Khanmigo,75,0.7,Active,41,25,Yes,5
+2021,5,Pakistan,Asia,35,37,32,6,ChatGPT,45,0.55,Active,37,20,Yes,3
+2021,5,Nigeria,Africa,34,36,31,51,Google Gemini,42,0.52,None,37,21,Yes,4
+2021,5,Canada,North America,31,38,37,53,Microsoft Copilot,94,0.92,Draft,33,16,No,2
+2021,5,Australia,Oceania,33,38,30,35,ChatGPT,96,0.93,Draft,34,26,No,6
+2021,6,United States,North America,34,31,31,5,Google Gemini,90,0.9,Active,38,23,Yes,5
+2021,6,United Kingdom,Europe,34,38,34,11,Microsoft Copilot,92,0.91,None,36,23,Yes,9
+2021,6,China,Asia,39,35,30,30,Google Gemini,70,0.75,Draft,39,31,No,3
+2021,6,India,Asia,34,33,32,21,Google Gemini,50,0.64,None,38,29,No,2
+2021,6,Germany,Europe,33,30,35,33,Microsoft Copilot,93,0.94,None,34,18,Yes,10
+2021,6,Brazil,South America,35,30,32,11,ChatGPT,75,0.7,None,35,23,No,5
+2021,6,Pakistan,Asia,39,37,37,56,ChatGPT,45,0.55,Draft,44,25,Yes,2
+2021,6,Nigeria,Africa,40,31,37,31,Google Gemini,42,0.52,None,43,34,No,2
+2021,6,Canada,North America,36,31,31,48,Microsoft Copilot,94,0.92,Active,36,29,No,1
+2021,6,Australia,Oceania,30,34,30,6,Microsoft Copilot,96,0.93,Active,35,17,No,9
+2021,7,United States,North America,35,37,30,60,Google Gemini,90,0.9,Active,39,26,Yes,1
+2021,7,United Kingdom,Europe,32,34,34,41,Google Gemini,92,0.91,Draft,32,27,Yes,10
+2021,7,China,Asia,40,32,37,36,Khanmigo,70,0.75,None,41,32,No,1
+2021,7,India,Asia,32,36,33,49,Google Gemini,50,0.64,None,33,19,Yes,1
+2021,7,Germany,Europe,31,38,30,58,Microsoft Copilot,93,0.94,Active,33,22,Yes,9
+2021,7,Brazil,South America,33,34,37,60,Google Gemini,75,0.7,Draft,37,24,No,2
+2021,7,Pakistan,Asia,32,37,31,44,Khanmigo,45,0.55,Draft,34,17,No,5
+2021,7,Nigeria,Africa,39,32,37,13,Google Gemini,42,0.52,None,40,31,No,8
+2021,7,Canada,North America,32,37,32,30,Google Gemini,94,0.92,None,35,22,Yes,10
+2021,7,Australia,Oceania,34,31,32,36,Khanmigo,96,0.93,None,37,20,No,1
+2021,8,United States,North America,37,33,34,15,Microsoft Copilot,90,0.9,Draft,38,31,Yes,8
+2021,8,United Kingdom,Europe,33,36,31,32,Khanmigo,92,0.91,None,34,27,Yes,8
+2021,8,China,Asia,30,38,36,23,Microsoft Copilot,70,0.75,None,35,21,No,1
+2021,8,India,Asia,32,32,33,29,Google Gemini,50,0.64,None,35,26,Yes,6
+2021,8,Germany,Europe,30,36,36,19,ChatGPT,93,0.94,Draft,31,23,No,1
+2021,8,Brazil,South America,35,31,37,33,Google Gemini,75,0.7,None,35,27,Yes,6
+2021,8,Pakistan,Asia,39,35,30,36,Google Gemini,45,0.55,Active,40,30,Yes,6
+2021,8,Nigeria,Africa,37,35,35,34,Microsoft Copilot,42,0.52,Active,39,31,Yes,1
+2021,8,Canada,North America,40,34,30,36,Microsoft Copilot,94,0.92,Draft,40,26,Yes,7
+2021,8,Australia,Oceania,36,36,34,30,Khanmigo,96,0.93,Draft,36,31,Yes,7
+2021,9,United States,North America,38,37,36,10,Khanmigo,90,0.9,Active,43,29,Yes,7
+2021,9,United Kingdom,Europe,31,38,31,27,Microsoft Copilot,92,0.91,Active,31,25,Yes,1
+2021,9,China,Asia,33,31,31,39,ChatGPT,70,0.75,None,37,27,Yes,3
+2021,9,India,Asia,31,31,34,28,Google Gemini,50,0.64,Active,36,16,No,6
+2021,9,Germany,Europe,38,38,36,39,ChatGPT,93,0.94,Active,43,23,No,1
+2021,9,Brazil,South America,34,32,36,27,Google Gemini,75,0.7,None,36,24,No,3
+2021,9,Pakistan,Asia,34,32,31,27,Microsoft Copilot,45,0.55,Active,36,23,Yes,6
+2021,9,Nigeria,Africa,37,35,37,24,Microsoft Copilot,42,0.52,None,37,30,No,1
+2021,9,Canada,North America,38,36,34,10,ChatGPT,94,0.92,None,39,27,Yes,1
+2021,9,Australia,Oceania,35,36,35,51,Microsoft Copilot,96,0.93,None,39,25,No,7
+2021,10,United States,North America,38,33,35,44,Google Gemini,90,0.9,Active,39,24,No,1
+2021,10,United Kingdom,Europe,39,31,32,52,Khanmigo,92,0.91,Active,43,28,No,4
+2021,10,China,Asia,30,32,31,28,ChatGPT,70,0.75,Draft,35,15,Yes,5
+2021,10,India,Asia,34,30,31,49,Microsoft Copilot,50,0.64,None,34,27,Yes,3
+2021,10,Germany,Europe,35,34,34,60,Microsoft Copilot,93,0.94,Draft,38,27,Yes,10
+2021,10,Brazil,South America,30,36,34,16,ChatGPT,75,0.7,Active,30,21,Yes,1
+2021,10,Pakistan,Asia,38,34,36,47,Microsoft Copilot,45,0.55,Active,43,28,Yes,6
+2021,10,Nigeria,Africa,40,35,33,20,Khanmigo,42,0.52,Draft,45,25,Yes,4
+2021,10,Canada,North America,40,32,37,58,Google Gemini,94,0.92,Active,45,27,Yes,9
+2021,10,Australia,Oceania,40,38,36,56,ChatGPT,96,0.93,Draft,40,31,Yes,2
+2021,11,United States,North America,36,32,34,35,ChatGPT,90,0.9,None,37,29,No,1
+2021,11,United Kingdom,Europe,39,37,37,32,ChatGPT,92,0.91,Active,42,31,No,9
+2021,11,China,Asia,34,37,34,24,Khanmigo,70,0.75,Draft,36,24,No,10
+2021,11,India,Asia,33,34,31,33,Google Gemini,50,0.64,None,38,22,Yes,7
+2021,11,Germany,Europe,36,38,36,22,Google Gemini,93,0.94,Draft,41,30,Yes,2
+2021,11,Brazil,South America,35,38,33,18,Khanmigo,75,0.7,None,36,23,No,10
+2021,11,Pakistan,Asia,30,32,37,32,Khanmigo,45,0.55,None,34,21,No,6
+2021,11,Nigeria,Africa,30,33,36,41,Khanmigo,42,0.52,None,33,18,No,7
+2021,11,Canada,North America,32,32,32,56,Google Gemini,94,0.92,Active,33,18,Yes,1
+2021,11,Australia,Oceania,35,34,31,35,ChatGPT,96,0.93,None,40,25,No,9
+2021,12,United States,North America,40,35,37,49,ChatGPT,90,0.9,Active,43,26,No,8
+2021,12,United Kingdom,Europe,40,37,32,30,Khanmigo,92,0.91,None,45,28,No,7
+2021,12,China,Asia,40,36,31,58,Khanmigo,70,0.75,Active,43,29,No,7
+2021,12,India,Asia,31,34,31,21,Khanmigo,50,0.64,None,32,16,No,3
+2021,12,Germany,Europe,39,33,37,58,Google Gemini,93,0.94,None,44,28,Yes,1
+2021,12,Brazil,South America,38,33,35,32,Microsoft Copilot,75,0.7,Active,38,27,Yes,4
+2021,12,Pakistan,Asia,33,34,30,12,Google Gemini,45,0.55,Active,36,24,Yes,3
+2021,12,Nigeria,Africa,38,31,31,8,Microsoft Copilot,42,0.52,Active,38,28,No,10
+2021,12,Canada,North America,40,33,35,57,Microsoft Copilot,94,0.92,Draft,43,30,Yes,5
+2021,12,Australia,Oceania,40,33,37,9,Microsoft Copilot,96,0.93,Draft,44,30,No,3
+2022,1,United States,North America,35,41,42,18,Google Gemini,90,0.9,Active,39,24,Yes,3
+2022,1,United Kingdom,Europe,36,36,37,56,Google Gemini,92,0.91,Active,37,25,No,1
+2022,1,China,Asia,40,39,38,29,ChatGPT,70,0.75,None,45,28,No,10
+2022,1,India,Asia,39,38,40,43,ChatGPT,50,0.64,Draft,40,29,No,3
+2022,1,Germany,Europe,38,36,39,56,ChatGPT,93,0.94,Draft,39,32,Yes,9
+2022,1,Brazil,South America,40,36,38,59,Microsoft Copilot,75,0.7,None,40,30,Yes,3
+2022,1,Pakistan,Asia,37,36,38,58,ChatGPT,45,0.55,Draft,38,29,No,4
+2022,1,Nigeria,Africa,35,35,42,5,Google Gemini,42,0.52,Draft,40,21,Yes,5
+2022,1,Canada,North America,43,35,37,36,Khanmigo,94,0.92,None,46,32,No,6
+2022,1,Australia,Oceania,38,38,40,42,Google Gemini,96,0.93,Active,43,24,No,7
+2022,2,United States,North America,41,36,42,27,ChatGPT,90,0.9,Draft,45,28,Yes,5
+2022,2,United Kingdom,Europe,45,36,36,12,Khanmigo,92,0.91,Draft,47,37,Yes,8
+2022,2,China,Asia,39,37,36,10,ChatGPT,70,0.75,Draft,43,29,Yes,9
+2022,2,India,Asia,36,42,39,6,ChatGPT,50,0.64,Active,36,31,Yes,1
+2022,2,Germany,Europe,38,36,36,38,ChatGPT,93,0.94,Active,42,24,Yes,2
+2022,2,Brazil,South America,41,39,42,7,Google Gemini,75,0.7,Active,45,26,Yes,8
+2022,2,Pakistan,Asia,40,37,35,38,Khanmigo,45,0.55,None,43,28,Yes,3
+2022,2,Nigeria,Africa,41,43,41,26,ChatGPT,42,0.52,None,44,33,No,8
+2022,2,Canada,North America,39,43,41,10,Microsoft Copilot,94,0.92,None,41,34,No,9
+2022,2,Australia,Oceania,38,42,42,39,Google Gemini,96,0.93,None,40,25,No,2
+2022,3,United States,North America,41,36,35,39,Microsoft Copilot,90,0.9,Active,41,33,Yes,7
+2022,3,United Kingdom,Europe,38,38,36,29,Khanmigo,92,0.91,None,41,32,Yes,9
+2022,3,China,Asia,36,43,41,47,Khanmigo,70,0.75,Active,40,23,No,1
+2022,3,India,Asia,42,36,37,25,Google Gemini,50,0.64,Draft,43,37,No,10
+2022,3,Germany,Europe,44,40,42,14,ChatGPT,93,0.94,Active,46,29,No,1
+2022,3,Brazil,South America,41,40,39,17,Google Gemini,75,0.7,Active,45,30,Yes,1
+2022,3,Pakistan,Asia,35,38,36,55,Khanmigo,45,0.55,Active,39,28,Yes,1
+2022,3,Nigeria,Africa,41,35,40,13,Microsoft Copilot,42,0.52,None,46,30,No,2
+2022,3,Canada,North America,45,41,37,25,Google Gemini,94,0.92,None,48,36,Yes,6
+2022,3,Australia,Oceania,40,39,36,15,ChatGPT,96,0.93,Draft,42,27,Yes,5
+2022,4,United States,North America,42,36,41,35,Google Gemini,90,0.9,None,42,28,No,9
+2022,4,United Kingdom,Europe,41,37,38,22,Microsoft Copilot,92,0.91,Draft,44,26,Yes,6
+2022,4,China,Asia,42,36,41,20,Google Gemini,70,0.75,None,42,27,Yes,6
+2022,4,India,Asia,37,37,42,52,Khanmigo,50,0.64,Active,40,32,No,2
+2022,4,Germany,Europe,39,40,39,29,ChatGPT,93,0.94,Active,39,31,No,8
+2022,4,Brazil,South America,44,35,39,19,ChatGPT,75,0.7,Active,45,31,No,6
+2022,4,Pakistan,Asia,36,38,40,42,Microsoft Copilot,45,0.55,Active,41,25,Yes,7
+2022,4,Nigeria,Africa,43,42,38,53,Microsoft Copilot,42,0.52,Active,45,28,Yes,8
+2022,4,Canada,North America,41,35,38,49,Microsoft Copilot,94,0.92,Active,42,27,No,3
+2022,4,Australia,Oceania,43,36,40,47,Microsoft Copilot,96,0.93,Active,43,36,No,6
+2022,5,United States,North America,39,35,37,31,Google Gemini,90,0.9,None,43,25,Yes,10
+2022,5,United Kingdom,Europe,37,43,38,45,Khanmigo,92,0.91,None,40,31,No,10
+2022,5,China,Asia,37,39,36,36,Khanmigo,70,0.75,Active,39,30,No,10
+2022,5,India,Asia,43,39,35,46,Microsoft Copilot,50,0.64,Active,47,30,Yes,3
+2022,5,Germany,Europe,44,43,36,10,Microsoft Copilot,93,0.94,Draft,45,36,Yes,9
+2022,5,Brazil,South America,39,42,37,37,Microsoft Copilot,75,0.7,Active,40,34,Yes,10
+2022,5,Pakistan,Asia,39,41,42,8,ChatGPT,45,0.55,Draft,43,25,No,5
+2022,5,Nigeria,Africa,42,35,39,22,ChatGPT,42,0.52,Active,47,32,No,9
+2022,5,Canada,North America,37,43,37,54,Google Gemini,94,0.92,Active,41,29,Yes,7
+2022,5,Australia,Oceania,39,35,40,55,ChatGPT,96,0.93,Draft,43,28,Yes,1
+2022,6,United States,North America,37,36,38,32,Microsoft Copilot,90,0.9,Active,38,30,Yes,3
+2022,6,United Kingdom,Europe,41,39,42,14,Microsoft Copilot,92,0.91,None,43,27,Yes,10
+2022,6,China,Asia,38,37,37,18,ChatGPT,70,0.75,Draft,39,25,No,7
+2022,6,India,Asia,37,42,42,18,Microsoft Copilot,50,0.64,None,41,23,Yes,1
+2022,6,Germany,Europe,36,43,36,37,ChatGPT,93,0.94,None,40,29,No,3
+2022,6,Brazil,South America,44,37,40,23,ChatGPT,75,0.7,None,49,38,No,8
+2022,6,Pakistan,Asia,39,38,41,24,Microsoft Copilot,45,0.55,Draft,42,31,Yes,3
+2022,6,Nigeria,Africa,45,39,35,32,Khanmigo,42,0.52,Active,50,33,No,10
+2022,6,Canada,North America,45,36,37,8,Google Gemini,94,0.92,Draft,46,33,Yes,4
+2022,6,Australia,Oceania,38,40,39,40,Khanmigo,96,0.93,None,38,27,Yes,10
+2022,7,United States,North America,38,43,35,5,Khanmigo,90,0.9,Active,38,31,Yes,10
+2022,7,United Kingdom,Europe,41,35,36,8,Google Gemini,92,0.91,None,45,31,No,7
+2022,7,China,Asia,40,43,35,51,ChatGPT,70,0.75,Active,40,30,Yes,2
+2022,7,India,Asia,44,35,36,46,Microsoft Copilot,50,0.64,None,45,34,No,1
+2022,7,Germany,Europe,37,41,35,36,Microsoft Copilot,93,0.94,Draft,40,28,No,6
+2022,7,Brazil,South America,36,39,39,23,Microsoft Copilot,75,0.7,None,40,29,Yes,7
+2022,7,Pakistan,Asia,35,42,35,30,Google Gemini,45,0.55,Active,39,20,Yes,4
+2022,7,Nigeria,Africa,41,42,39,41,Khanmigo,42,0.52,Active,42,31,Yes,9
+2022,7,Canada,North America,40,42,35,12,Khanmigo,94,0.92,Draft,41,29,No,7
+2022,7,Australia,Oceania,39,39,36,35,Microsoft Copilot,96,0.93,None,44,28,No,2
+2022,8,United States,North America,44,36,38,12,ChatGPT,90,0.9,None,44,31,No,2
+2022,8,United Kingdom,Europe,45,36,36,29,Khanmigo,92,0.91,Active,45,31,Yes,5
+2022,8,China,Asia,38,37,41,32,Google Gemini,70,0.75,None,41,23,No,4
+2022,8,India,Asia,42,41,35,14,Google Gemini,50,0.64,None,45,27,Yes,4
+2022,8,Germany,Europe,42,43,39,49,Google Gemini,93,0.94,None,47,28,Yes,2
+2022,8,Brazil,South America,36,42,37,14,Google Gemini,75,0.7,None,40,25,Yes,8
+2022,8,Pakistan,Asia,41,36,41,26,Google Gemini,45,0.55,None,43,29,Yes,7
+2022,8,Nigeria,Africa,36,41,37,49,Google Gemini,42,0.52,Draft,40,31,Yes,10
+2022,8,Canada,North America,40,38,40,19,Google Gemini,94,0.92,None,45,25,No,9
+2022,8,Australia,Oceania,39,36,42,50,Microsoft Copilot,96,0.93,Active,39,25,No,8
+2022,9,United States,North America,45,36,41,31,ChatGPT,90,0.9,Active,50,34,No,10
+2022,9,United Kingdom,Europe,44,38,37,5,Khanmigo,92,0.91,Draft,46,33,No,10
+2022,9,China,Asia,35,43,39,18,Microsoft Copilot,70,0.75,Draft,35,27,Yes,5
+2022,9,India,Asia,40,38,42,15,ChatGPT,50,0.64,Draft,43,28,Yes,4
+2022,9,Germany,Europe,43,42,36,58,ChatGPT,93,0.94,Active,48,32,Yes,10
+2022,9,Brazil,South America,44,43,37,25,Microsoft Copilot,75,0.7,Draft,49,39,No,8
+2022,9,Pakistan,Asia,43,36,39,59,Google Gemini,45,0.55,Active,47,36,No,9
+2022,9,Nigeria,Africa,45,36,41,36,Google Gemini,42,0.52,None,47,38,Yes,1
+2022,9,Canada,North America,36,35,35,22,Google Gemini,94,0.92,None,38,22,Yes,3
+2022,9,Australia,Oceania,40,38,42,41,Khanmigo,96,0.93,None,43,28,No,5
+2022,10,United States,North America,43,40,41,28,Khanmigo,90,0.9,Draft,43,33,Yes,10
+2022,10,United Kingdom,Europe,40,38,37,48,Google Gemini,92,0.91,Draft,40,33,No,6
+2022,10,China,Asia,43,42,37,23,Google Gemini,70,0.75,Draft,47,28,No,5
+2022,10,India,Asia,39,39,41,36,ChatGPT,50,0.64,None,43,32,Yes,5
+2022,10,Germany,Europe,36,41,37,14,Khanmigo,93,0.94,None,41,28,Yes,5
+2022,10,Brazil,South America,39,41,42,45,Khanmigo,75,0.7,None,41,31,Yes,6
+2022,10,Pakistan,Asia,39,37,41,8,ChatGPT,45,0.55,Active,42,32,Yes,3
+2022,10,Nigeria,Africa,39,40,42,34,ChatGPT,42,0.52,Active,41,29,Yes,2
+2022,10,Canada,North America,42,39,41,53,Microsoft Copilot,94,0.92,Draft,47,35,No,9
+2022,10,Australia,Oceania,43,43,40,56,Khanmigo,96,0.93,None,46,34,No,2
+2022,11,United States,North America,42,35,40,13,Khanmigo,90,0.9,Draft,46,37,No,5
+2022,11,United Kingdom,Europe,42,37,42,10,Khanmigo,92,0.91,Draft,43,33,No,1
+2022,11,China,Asia,41,39,37,32,Microsoft Copilot,70,0.75,Draft,45,29,No,4
+2022,11,India,Asia,41,37,42,56,Microsoft Copilot,50,0.64,Draft,46,28,Yes,9
+2022,11,Germany,Europe,35,43,39,17,ChatGPT,93,0.94,None,35,25,Yes,7
+2022,11,Brazil,South America,40,36,36,44,ChatGPT,75,0.7,Active,42,35,No,1
+2022,11,Pakistan,Asia,36,41,37,16,Microsoft Copilot,45,0.55,Active,39,26,Yes,8
+2022,11,Nigeria,Africa,35,36,42,57,Khanmigo,42,0.52,Active,35,25,No,4
+2022,11,Canada,North America,41,39,37,36,Google Gemini,94,0.92,None,42,36,Yes,3
+2022,11,Australia,Oceania,43,38,37,49,Google Gemini,96,0.93,Draft,45,37,Yes,9
+2022,12,United States,North America,45,37,38,25,Khanmigo,90,0.9,Active,48,31,Yes,10
+2022,12,United Kingdom,Europe,41,35,39,35,Google Gemini,92,0.91,Active,41,31,No,5
+2022,12,China,Asia,38,38,35,44,Google Gemini,70,0.75,Active,42,30,Yes,3
+2022,12,India,Asia,41,35,36,38,ChatGPT,50,0.64,Draft,42,26,Yes,6
+2022,12,Germany,Europe,39,40,36,20,Google Gemini,93,0.94,None,41,26,Yes,8
+2022,12,Brazil,South America,38,41,38,18,Google Gemini,75,0.7,Draft,40,24,Yes,8
+2022,12,Pakistan,Asia,41,39,38,37,Microsoft Copilot,45,0.55,None,45,27,Yes,5
+2022,12,Nigeria,Africa,36,39,36,9,Khanmigo,42,0.52,Draft,36,25,Yes,9
+2022,12,Canada,North America,42,36,35,14,ChatGPT,94,0.92,Active,42,34,No,8
+2022,12,Australia,Oceania,39,36,42,52,Microsoft Copilot,96,0.93,Draft,44,29,No,3
+2023,1,United States,North America,50,45,40,43,Khanmigo,90,0.9,Draft,52,43,Yes,6
+2023,1,United Kingdom,Europe,40,48,44,52,Google Gemini,92,0.91,Draft,40,33,Yes,2
+2023,1,China,Asia,48,45,41,21,Google Gemini,70,0.75,Active,49,38,No,2
+2023,1,India,Asia,48,40,43,5,ChatGPT,50,0.64,Draft,52,40,No,3
+2023,1,Germany,Europe,49,44,46,31,Google Gemini,93,0.94,Active,53,40,No,4
+2023,1,Brazil,South America,43,40,47,56,Google Gemini,75,0.7,Draft,48,35,Yes,7
+2023,1,Pakistan,Asia,47,48,42,39,Google Gemini,45,0.55,Draft,49,42,Yes,9
+2023,1,Nigeria,Africa,46,41,44,56,Khanmigo,42,0.52,Draft,51,39,Yes,2
+2023,1,Canada,North America,40,40,41,18,Khanmigo,94,0.92,Active,45,31,No,3
+2023,1,Australia,Oceania,48,41,47,10,Khanmigo,96,0.93,Draft,51,40,No,8
+2023,2,United States,North America,47,48,42,50,Microsoft Copilot,90,0.9,Active,47,41,Yes,6
+2023,2,United Kingdom,Europe,40,40,47,60,Google Gemini,92,0.91,Draft,44,34,Yes,9
+2023,2,China,Asia,40,43,46,50,Google Gemini,70,0.75,Draft,45,30,No,7
+2023,2,India,Asia,47,45,42,50,ChatGPT,50,0.64,Active,50,40,No,7
+2023,2,Germany,Europe,40,45,46,33,Khanmigo,93,0.94,None,41,33,Yes,10
+2023,2,Brazil,South America,48,44,41,28,Microsoft Copilot,75,0.7,Draft,51,40,No,3
+2023,2,Pakistan,Asia,49,46,46,43,ChatGPT,45,0.55,Active,51,44,Yes,3
+2023,2,Nigeria,Africa,44,47,47,48,ChatGPT,42,0.52,Draft,44,35,No,3
+2023,2,Canada,North America,46,47,42,52,Google Gemini,94,0.92,Active,48,35,Yes,7
+2023,2,Australia,Oceania,42,48,45,48,Microsoft Copilot,96,0.93,Active,42,34,Yes,8
+2023,3,United States,North America,45,41,43,46,Microsoft Copilot,90,0.9,Active,45,37,Yes,5
+2023,3,United Kingdom,Europe,50,47,40,21,ChatGPT,92,0.91,None,50,40,Yes,2
+2023,3,China,Asia,43,46,43,25,Google Gemini,70,0.75,Draft,44,37,Yes,9
+2023,3,India,Asia,44,46,40,23,ChatGPT,50,0.64,Active,48,32,Yes,2
+2023,3,Germany,Europe,40,47,47,27,Microsoft Copilot,93,0.94,Active,42,35,Yes,4
+2023,3,Brazil,South America,42,47,45,10,ChatGPT,75,0.7,None,46,30,No,5
+2023,3,Pakistan,Asia,43,42,43,13,ChatGPT,45,0.55,Active,43,28,No,1
+2023,3,Nigeria,Africa,45,43,40,42,Khanmigo,42,0.52,None,46,35,Yes,1
+2023,3,Canada,North America,43,46,43,40,ChatGPT,94,0.92,Draft,43,36,Yes,8
+2023,3,Australia,Oceania,50,43,42,22,ChatGPT,96,0.93,None,52,45,Yes,6
+2023,4,United States,North America,42,41,40,34,ChatGPT,90,0.9,Active,43,33,No,8
+2023,4,United Kingdom,Europe,44,41,46,15,Microsoft Copilot,92,0.91,Draft,49,31,Yes,7
+2023,4,China,Asia,44,43,45,45,Khanmigo,70,0.75,None,48,37,Yes,4
+2023,4,India,Asia,44,46,40,60,ChatGPT,50,0.64,Active,47,32,Yes,10
+2023,4,Germany,Europe,42,48,43,12,ChatGPT,93,0.94,Draft,45,27,Yes,7
+2023,4,Brazil,South America,45,45,45,28,Khanmigo,75,0.7,Draft,50,38,No,4
+2023,4,Pakistan,Asia,40,42,40,16,ChatGPT,45,0.55,Active,43,26,Yes,9
+2023,4,Nigeria,Africa,50,44,46,46,Google Gemini,42,0.52,Active,54,40,No,1
+2023,4,Canada,North America,41,46,47,21,Khanmigo,94,0.92,Draft,41,26,No,6
+2023,4,Australia,Oceania,46,46,42,12,Microsoft Copilot,96,0.93,None,50,41,Yes,5
+2023,5,United States,North America,41,45,42,42,Google Gemini,90,0.9,None,45,34,No,1
+2023,5,United Kingdom,Europe,44,48,41,47,ChatGPT,92,0.91,Draft,48,39,Yes,1
+2023,5,China,Asia,44,43,42,21,ChatGPT,70,0.75,Draft,44,31,Yes,4
+2023,5,India,Asia,47,42,46,23,Khanmigo,50,0.64,Draft,49,39,No,5
+2023,5,Germany,Europe,42,44,47,28,Microsoft Copilot,93,0.94,Active,45,28,Yes,7
+2023,5,Brazil,South America,48,40,40,26,Google Gemini,75,0.7,None,52,35,No,1
+2023,5,Pakistan,Asia,44,48,41,24,Microsoft Copilot,45,0.55,Active,46,32,No,8
+2023,5,Nigeria,Africa,40,44,41,16,Microsoft Copilot,42,0.52,Draft,45,26,Yes,10
+2023,5,Canada,North America,41,44,46,51,ChatGPT,94,0.92,None,44,36,Yes,9
+2023,5,Australia,Oceania,48,47,43,59,Khanmigo,96,0.93,Draft,50,38,Yes,7
+2023,6,United States,North America,49,45,43,43,Khanmigo,90,0.9,None,49,44,Yes,7
+2023,6,United Kingdom,Europe,43,47,42,57,ChatGPT,92,0.91,Active,47,37,No,9
+2023,6,China,Asia,47,41,43,31,Microsoft Copilot,70,0.75,Active,51,35,Yes,9
+2023,6,India,Asia,47,43,42,23,ChatGPT,50,0.64,None,52,37,Yes,10
+2023,6,Germany,Europe,40,47,42,47,ChatGPT,93,0.94,Draft,42,32,Yes,10
+2023,6,Brazil,South America,43,45,42,34,Khanmigo,75,0.7,Draft,43,34,Yes,4
+2023,6,Pakistan,Asia,41,47,43,53,Microsoft Copilot,45,0.55,None,44,33,No,2
+2023,6,Nigeria,Africa,41,45,41,12,ChatGPT,42,0.52,Draft,43,36,No,2
+2023,6,Canada,North America,45,48,47,60,ChatGPT,94,0.92,Draft,50,30,No,9
+2023,6,Australia,Oceania,41,41,41,26,Khanmigo,96,0.93,None,43,27,No,2
+2023,7,United States,North America,50,48,40,40,Google Gemini,90,0.9,None,55,44,No,3
+2023,7,United Kingdom,Europe,46,44,41,17,Google Gemini,92,0.91,Draft,50,33,No,3
+2023,7,China,Asia,47,44,41,60,Google Gemini,70,0.75,Active,52,38,Yes,9
+2023,7,India,Asia,47,46,41,14,Microsoft Copilot,50,0.64,Draft,48,37,Yes,9
+2023,7,Germany,Europe,41,40,41,59,Khanmigo,93,0.94,None,43,28,Yes,1
+2023,7,Brazil,South America,42,48,47,21,Google Gemini,75,0.7,Draft,47,33,No,4
+2023,7,Pakistan,Asia,40,45,44,35,ChatGPT,45,0.55,Draft,43,29,No,5
+2023,7,Nigeria,Africa,42,40,46,38,Microsoft Copilot,42,0.52,Draft,47,31,Yes,4
+2023,7,Canada,North America,49,42,43,35,Khanmigo,94,0.92,Draft,53,44,No,10
+2023,7,Australia,Oceania,46,45,43,27,Microsoft Copilot,96,0.93,None,51,38,Yes,7
+2023,8,United States,North America,48,44,47,32,ChatGPT,90,0.9,Active,53,43,No,4
+2023,8,United Kingdom,Europe,50,48,46,55,ChatGPT,92,0.91,Draft,51,43,No,3
+2023,8,China,Asia,43,45,43,13,Google Gemini,70,0.75,Draft,46,31,No,7
+2023,8,India,Asia,47,42,43,9,Microsoft Copilot,50,0.64,Active,50,34,No,5
+2023,8,Germany,Europe,48,46,47,41,Google Gemini,93,0.94,Active,53,43,No,10
+2023,8,Brazil,South America,41,46,41,36,Khanmigo,75,0.7,Active,42,33,No,2
+2023,8,Pakistan,Asia,48,41,43,32,Google Gemini,45,0.55,Active,49,33,Yes,7
+2023,8,Nigeria,Africa,44,48,45,47,Khanmigo,42,0.52,Draft,49,38,No,3
+2023,8,Canada,North America,40,43,45,55,Google Gemini,94,0.92,Draft,42,26,Yes,8
+2023,8,Australia,Oceania,46,40,42,27,ChatGPT,96,0.93,Active,50,40,No,10
+2023,9,United States,North America,44,42,40,9,ChatGPT,90,0.9,Active,48,34,Yes,4
+2023,9,United Kingdom,Europe,40,48,40,14,Google Gemini,92,0.91,Draft,43,34,No,7
+2023,9,China,Asia,49,45,46,28,Khanmigo,70,0.75,Active,53,38,Yes,7
+2023,9,India,Asia,46,43,42,17,Microsoft Copilot,50,0.64,Active,46,41,Yes,3
+2023,9,Germany,Europe,40,42,43,15,Khanmigo,93,0.94,None,41,34,Yes,5
+2023,9,Brazil,South America,41,44,42,17,Microsoft Copilot,75,0.7,Draft,45,29,No,4
+2023,9,Pakistan,Asia,48,46,44,60,Google Gemini,45,0.55,None,49,36,Yes,5
+2023,9,Nigeria,Africa,40,46,44,32,ChatGPT,42,0.52,None,41,26,No,8
+2023,9,Canada,North America,41,43,46,56,Microsoft Copilot,94,0.92,Draft,44,27,No,9
+2023,9,Australia,Oceania,48,43,42,29,Khanmigo,96,0.93,Active,51,41,Yes,7
+2023,10,United States,North America,45,40,44,6,Google Gemini,90,0.9,None,48,39,No,8
+2023,10,United Kingdom,Europe,49,42,44,32,Microsoft Copilot,92,0.91,Active,53,43,No,5
+2023,10,China,Asia,50,42,41,24,Microsoft Copilot,70,0.75,Active,52,38,Yes,1
+2023,10,India,Asia,43,47,43,22,Microsoft Copilot,50,0.64,Draft,46,36,Yes,2
+2023,10,Germany,Europe,45,47,44,35,Khanmigo,93,0.94,Active,46,40,No,4
+2023,10,Brazil,South America,46,40,45,41,Google Gemini,75,0.7,Draft,49,35,No,7
+2023,10,Pakistan,Asia,49,45,47,30,Google Gemini,45,0.55,Draft,52,44,Yes,7
+2023,10,Nigeria,Africa,47,42,41,55,Google Gemini,42,0.52,Draft,49,35,Yes,6
+2023,10,Canada,North America,42,41,46,24,Khanmigo,94,0.92,Draft,45,32,Yes,6
+2023,10,Australia,Oceania,49,41,43,12,Google Gemini,96,0.93,None,50,40,Yes,5
+2023,11,United States,North America,47,47,46,6,Google Gemini,90,0.9,None,51,32,No,9
+2023,11,United Kingdom,Europe,50,44,46,12,Microsoft Copilot,92,0.91,Draft,51,45,No,6
+2023,11,China,Asia,40,46,42,36,Google Gemini,70,0.75,None,42,31,No,6
+2023,11,India,Asia,49,40,46,18,ChatGPT,50,0.64,None,52,43,Yes,6
+2023,11,Germany,Europe,45,43,43,26,Khanmigo,93,0.94,Active,45,32,Yes,8
+2023,11,Brazil,South America,43,47,43,38,Microsoft Copilot,75,0.7,Active,43,35,Yes,9
+2023,11,Pakistan,Asia,50,41,47,48,Microsoft Copilot,45,0.55,Active,54,43,Yes,4
+2023,11,Nigeria,Africa,50,42,43,13,Google Gemini,42,0.52,Active,51,36,Yes,6
+2023,11,Canada,North America,44,45,43,34,ChatGPT,94,0.92,None,44,32,Yes,9
+2023,11,Australia,Oceania,47,42,44,26,Google Gemini,96,0.93,Active,49,38,Yes,2
+2023,12,United States,North America,44,46,46,16,Google Gemini,90,0.9,None,45,33,No,4
+2023,12,United Kingdom,Europe,50,48,44,29,ChatGPT,92,0.91,Draft,52,45,No,4
+2023,12,China,Asia,41,46,41,39,Google Gemini,70,0.75,Active,45,26,No,8
+2023,12,India,Asia,42,40,47,10,Google Gemini,50,0.64,None,44,36,Yes,7
+2023,12,Germany,Europe,40,40,44,12,Khanmigo,93,0.94,Draft,43,29,Yes,6
+2023,12,Brazil,South America,43,41,47,23,Microsoft Copilot,75,0.7,Active,46,32,No,4
+2023,12,Pakistan,Asia,40,42,47,36,Khanmigo,45,0.55,Active,43,30,No,2
+2023,12,Nigeria,Africa,50,45,47,26,Microsoft Copilot,42,0.52,None,55,44,No,4
+2023,12,Canada,North America,50,44,45,15,Khanmigo,94,0.92,Draft,51,45,Yes,7
+2023,12,Australia,Oceania,48,41,44,19,Khanmigo,96,0.93,None,50,39,No,6
+2024,1,United States,North America,55,46,50,25,Microsoft Copilot,90,0.9,Active,56,47,Yes,1
+2024,1,United Kingdom,Europe,45,49,48,18,ChatGPT,92,0.91,Active,49,34,Yes,3
+2024,1,China,Asia,45,50,51,17,Khanmigo,70,0.75,Active,50,34,No,9
+2024,1,India,Asia,47,52,50,53,ChatGPT,50,0.64,None,48,34,No,1
+2024,1,Germany,Europe,46,48,51,33,Microsoft Copilot,93,0.94,Active,49,33,No,1
+2024,1,Brazil,South America,47,49,48,49,Google Gemini,75,0.7,None,50,32,Yes,3
+2024,1,Pakistan,Asia,55,46,49,42,Microsoft Copilot,45,0.55,None,60,45,Yes,9
+2024,1,Nigeria,Africa,54,53,47,41,Google Gemini,42,0.52,Active,55,49,Yes,4
+2024,1,Canada,North America,55,49,48,33,Khanmigo,94,0.92,Active,57,45,No,7
+2024,1,Australia,Oceania,46,47,52,51,ChatGPT,96,0.93,Active,46,31,Yes,9
+2024,2,United States,North America,49,51,52,52,ChatGPT,90,0.9,Active,51,43,Yes,7
+2024,2,United Kingdom,Europe,47,50,52,6,Microsoft Copilot,92,0.91,Active,52,42,Yes,2
+2024,2,China,Asia,45,50,51,23,Google Gemini,70,0.75,None,49,39,Yes,9
+2024,2,India,Asia,52,47,45,20,Microsoft Copilot,50,0.64,None,52,40,Yes,10
+2024,2,Germany,Europe,51,48,49,24,Khanmigo,93,0.94,Draft,51,41,Yes,1
+2024,2,Brazil,South America,50,52,49,11,Google Gemini,75,0.7,None,50,41,No,9
+2024,2,Pakistan,Asia,54,45,50,21,ChatGPT,45,0.55,Draft,54,45,Yes,8
+2024,2,Nigeria,Africa,50,47,52,26,Microsoft Copilot,42,0.52,Active,54,40,Yes,10
+2024,2,Canada,North America,50,48,45,12,ChatGPT,94,0.92,Active,51,40,No,9
+2024,2,Australia,Oceania,46,45,45,42,Khanmigo,96,0.93,Active,46,41,Yes,4
+2024,3,United States,North America,52,52,49,21,Google Gemini,90,0.9,None,57,41,No,9
+2024,3,United Kingdom,Europe,50,45,46,39,Khanmigo,92,0.91,Draft,54,40,No,5
+2024,3,China,Asia,48,50,49,17,Khanmigo,70,0.75,Draft,51,41,Yes,8
+2024,3,India,Asia,45,46,50,17,Microsoft Copilot,50,0.64,Active,46,39,No,5
+2024,3,Germany,Europe,48,51,52,34,Google Gemini,93,0.94,Draft,51,38,No,9
+2024,3,Brazil,South America,53,46,48,53,ChatGPT,75,0.7,Active,54,38,Yes,9
+2024,3,Pakistan,Asia,52,45,45,38,Google Gemini,45,0.55,Draft,52,45,No,7
+2024,3,Nigeria,Africa,47,50,48,31,Google Gemini,42,0.52,None,47,33,Yes,7
+2024,3,Canada,North America,51,47,49,52,Google Gemini,94,0.92,Active,56,39,Yes,7
+2024,3,Australia,Oceania,46,45,49,58,Khanmigo,96,0.93,Active,51,35,Yes,7
+2024,4,United States,North America,46,52,51,32,Microsoft Copilot,90,0.9,None,47,37,No,8
+2024,4,United Kingdom,Europe,52,53,47,48,ChatGPT,92,0.91,None,57,43,No,8
+2024,4,China,Asia,48,47,48,14,Khanmigo,70,0.75,None,50,41,No,6
+2024,4,India,Asia,53,45,49,58,ChatGPT,50,0.64,Draft,57,41,Yes,9
+2024,4,Germany,Europe,45,49,52,26,Khanmigo,93,0.94,Draft,49,35,No,7
+2024,4,Brazil,South America,49,52,49,43,Google Gemini,75,0.7,None,54,43,No,2
+2024,4,Pakistan,Asia,50,50,52,53,ChatGPT,45,0.55,Active,53,43,No,1
+2024,4,Nigeria,Africa,48,52,47,58,Khanmigo,42,0.52,Active,53,33,Yes,4
+2024,4,Canada,North America,46,46,46,47,Khanmigo,94,0.92,Draft,50,41,No,8
+2024,4,Australia,Oceania,48,48,46,32,ChatGPT,96,0.93,Active,50,39,Yes,5
+2024,5,United States,North America,45,52,48,11,ChatGPT,90,0.9,None,50,30,Yes,2
+2024,5,United Kingdom,Europe,55,53,50,57,Microsoft Copilot,92,0.91,Draft,56,45,No,6
+2024,5,China,Asia,55,49,47,40,ChatGPT,70,0.75,Active,60,45,Yes,2
+2024,5,India,Asia,55,49,45,23,Google Gemini,50,0.64,Draft,55,48,Yes,4
+2024,5,Germany,Europe,51,51,49,34,ChatGPT,93,0.94,None,51,42,Yes,6
+2024,5,Brazil,South America,50,53,51,19,Khanmigo,75,0.7,Active,55,39,Yes,8
+2024,5,Pakistan,Asia,46,50,47,32,Google Gemini,45,0.55,Draft,51,32,Yes,3
+2024,5,Nigeria,Africa,50,46,46,26,Google Gemini,42,0.52,Draft,55,39,No,4
+2024,5,Canada,North America,51,51,52,24,Khanmigo,94,0.92,Draft,54,41,Yes,4
+2024,5,Australia,Oceania,52,45,48,28,ChatGPT,96,0.93,Draft,53,43,Yes,4
+2024,6,United States,North America,53,49,47,38,Khanmigo,90,0.9,Draft,56,46,No,3
+2024,6,United Kingdom,Europe,50,51,52,15,ChatGPT,92,0.91,Draft,54,43,Yes,5
+2024,6,China,Asia,53,48,45,59,Microsoft Copilot,70,0.75,None,55,47,No,3
+2024,6,India,Asia,53,52,45,32,ChatGPT,50,0.64,Active,56,39,Yes,7
+2024,6,Germany,Europe,50,51,45,50,ChatGPT,93,0.94,Draft,52,39,No,6
+2024,6,Brazil,South America,49,49,45,25,Google Gemini,75,0.7,Draft,53,41,Yes,8
+2024,6,Pakistan,Asia,55,51,52,43,Google Gemini,45,0.55,Draft,59,44,No,6
+2024,6,Nigeria,Africa,46,46,47,45,Google Gemini,42,0.52,Draft,51,41,No,3
+2024,6,Canada,North America,46,49,48,14,ChatGPT,94,0.92,None,49,35,No,6
+2024,6,Australia,Oceania,53,50,50,50,Google Gemini,96,0.93,Active,57,43,Yes,10
+2024,7,United States,North America,51,45,50,42,Khanmigo,90,0.9,None,53,39,No,9
+2024,7,United Kingdom,Europe,54,47,49,40,Microsoft Copilot,92,0.91,Active,56,39,Yes,9
+2024,7,China,Asia,45,46,47,55,Khanmigo,70,0.75,None,47,38,No,5
+2024,7,India,Asia,49,48,52,8,Microsoft Copilot,50,0.64,Active,54,41,Yes,4
+2024,7,Germany,Europe,45,49,50,11,Khanmigo,93,0.94,None,46,36,No,4
+2024,7,Brazil,South America,45,52,49,39,Khanmigo,75,0.7,Active,46,36,Yes,6
+2024,7,Pakistan,Asia,45,47,45,48,Microsoft Copilot,45,0.55,None,48,37,No,9
+2024,7,Nigeria,Africa,45,53,48,43,ChatGPT,42,0.52,None,45,39,No,1
+2024,7,Canada,North America,54,49,51,9,ChatGPT,94,0.92,None,54,43,Yes,3
+2024,7,Australia,Oceania,46,46,50,20,Microsoft Copilot,96,0.93,Draft,48,36,Yes,7
+2024,8,United States,North America,55,46,47,40,Google Gemini,90,0.9,Draft,58,44,No,8
+2024,8,United Kingdom,Europe,54,47,48,26,ChatGPT,92,0.91,Draft,59,46,No,6
+2024,8,China,Asia,51,50,50,8,Google Gemini,70,0.75,Active,52,41,Yes,10
+2024,8,India,Asia,52,51,47,42,Microsoft Copilot,50,0.64,Active,56,37,Yes,4
+2024,8,Germany,Europe,52,49,51,10,ChatGPT,93,0.94,None,53,41,No,9
+2024,8,Brazil,South America,54,47,50,60,Google Gemini,75,0.7,Active,54,48,No,1
+2024,8,Pakistan,Asia,53,52,47,48,Khanmigo,45,0.55,Draft,53,38,No,9
+2024,8,Nigeria,Africa,52,51,52,35,Microsoft Copilot,42,0.52,None,56,41,Yes,6
+2024,8,Canada,North America,54,51,47,21,Khanmigo,94,0.92,None,59,45,No,10
+2024,8,Australia,Oceania,52,50,49,44,ChatGPT,96,0.93,None,54,46,Yes,5
+2024,9,United States,North America,53,48,50,60,Khanmigo,90,0.9,Draft,56,46,No,3
+2024,9,United Kingdom,Europe,53,48,48,25,Microsoft Copilot,92,0.91,Draft,57,39,Yes,10
+2024,9,China,Asia,46,47,47,18,Microsoft Copilot,70,0.75,Draft,47,41,Yes,5
+2024,9,India,Asia,47,50,50,11,ChatGPT,50,0.64,Draft,52,39,Yes,4
+2024,9,Germany,Europe,47,46,47,48,Khanmigo,93,0.94,Draft,49,35,Yes,7
+2024,9,Brazil,South America,52,46,48,6,Khanmigo,75,0.7,Active,57,47,Yes,4
+2024,9,Pakistan,Asia,46,50,52,14,ChatGPT,45,0.55,Active,51,41,No,10
+2024,9,Nigeria,Africa,49,45,52,26,ChatGPT,42,0.52,Draft,49,34,Yes,10
+2024,9,Canada,North America,52,51,49,28,Microsoft Copilot,94,0.92,None,57,40,No,5
+2024,9,Australia,Oceania,53,47,49,27,Microsoft Copilot,96,0.93,None,57,47,Yes,8
+2024,10,United States,North America,52,48,49,35,Microsoft Copilot,90,0.9,Active,56,43,Yes,10
+2024,10,United Kingdom,Europe,45,46,50,44,Microsoft Copilot,92,0.91,Draft,46,34,Yes,1
+2024,10,China,Asia,54,52,51,47,ChatGPT,70,0.75,Draft,55,45,No,8
+2024,10,India,Asia,54,52,50,53,Microsoft Copilot,50,0.64,None,59,43,Yes,5
+2024,10,Germany,Europe,55,47,50,20,ChatGPT,93,0.94,None,56,46,Yes,4
+2024,10,Brazil,South America,48,53,50,6,ChatGPT,75,0.7,Draft,48,35,No,10
+2024,10,Pakistan,Asia,50,49,45,28,Google Gemini,45,0.55,Active,54,42,No,6
+2024,10,Nigeria,Africa,54,51,52,32,Google Gemini,42,0.52,Draft,57,42,No,1
+2024,10,Canada,North America,45,51,49,60,ChatGPT,94,0.92,Active,50,40,No,9
+2024,10,Australia,Oceania,50,53,50,49,Microsoft Copilot,96,0.93,Active,50,37,Yes,3
+2024,11,United States,North America,47,49,50,32,Google Gemini,90,0.9,Active,51,32,No,1
+2024,11,United Kingdom,Europe,48,53,47,44,Google Gemini,92,0.91,None,50,40,Yes,2
+2024,11,China,Asia,49,51,49,43,ChatGPT,70,0.75,None,50,39,Yes,9
+2024,11,India,Asia,51,45,47,47,Microsoft Copilot,50,0.64,Active,53,46,No,2
+2024,11,Germany,Europe,51,47,45,13,ChatGPT,93,0.94,Draft,53,37,No,6
+2024,11,Brazil,South America,53,46,50,12,Microsoft Copilot,75,0.7,Active,53,38,Yes,3
+2024,11,Pakistan,Asia,55,48,52,24,ChatGPT,45,0.55,Active,57,47,No,1
+2024,11,Nigeria,Africa,46,49,47,28,Microsoft Copilot,42,0.52,Active,46,31,No,6
+2024,11,Canada,North America,45,50,48,41,Google Gemini,94,0.92,Active,45,35,No,4
+2024,11,Australia,Oceania,47,52,52,21,Microsoft Copilot,96,0.93,Draft,50,37,No,4
+2024,12,United States,North America,50,51,45,10,Google Gemini,90,0.9,None,52,44,No,3
+2024,12,United Kingdom,Europe,46,49,48,23,ChatGPT,92,0.91,Active,49,32,No,10
+2024,12,China,Asia,52,52,46,34,Google Gemini,70,0.75,Active,54,41,No,3
+2024,12,India,Asia,46,46,49,31,Khanmigo,50,0.64,Draft,46,32,Yes,4
+2024,12,Germany,Europe,53,52,50,27,ChatGPT,93,0.94,Active,55,42,Yes,3
+2024,12,Brazil,South America,49,53,46,37,Google Gemini,75,0.7,Active,49,36,No,4
+2024,12,Pakistan,Asia,45,53,46,45,ChatGPT,45,0.55,None,50,35,No,7
+2024,12,Nigeria,Africa,49,51,47,38,Microsoft Copilot,42,0.52,Draft,54,37,Yes,8
+2024,12,Canada,North America,54,53,51,43,Khanmigo,94,0.92,Draft,58,49,Yes,1
+2024,12,Australia,Oceania,55,46,45,45,ChatGPT,96,0.93,None,58,40,Yes,1
+2025,1,United States,North America,53,57,55,12,Khanmigo,90,0.9,Draft,58,39,No,8
+2025,1,United Kingdom,Europe,50,52,52,44,Google Gemini,92,0.91,Active,50,43,Yes,7
+2025,1,China,Asia,56,53,55,39,ChatGPT,70,0.75,Draft,60,50,No,3
+2025,1,India,Asia,59,51,53,39,Khanmigo,50,0.64,None,62,48,Yes,7
+2025,1,Germany,Europe,60,50,50,18,ChatGPT,93,0.94,Draft,62,49,Yes,8
+2025,1,Brazil,South America,55,52,53,11,Khanmigo,75,0.7,Draft,56,43,No,9
+2025,1,Pakistan,Asia,59,53,55,44,Google Gemini,45,0.55,Draft,60,47,No,8
+2025,1,Nigeria,Africa,58,55,51,30,Google Gemini,42,0.52,None,63,44,No,9
+2025,1,Canada,North America,54,53,55,57,Microsoft Copilot,94,0.92,Draft,56,49,Yes,1
+2025,1,Australia,Oceania,51,54,55,34,ChatGPT,96,0.93,Draft,55,44,Yes,4
+2025,2,United States,North America,58,53,50,30,Google Gemini,90,0.9,Draft,59,48,Yes,9
+2025,2,United Kingdom,Europe,53,53,50,10,Khanmigo,92,0.91,Active,58,38,Yes,4
+2025,2,China,Asia,53,53,52,9,Google Gemini,70,0.75,None,58,42,No,3
+2025,2,India,Asia,52,50,51,27,Google Gemini,50,0.64,Draft,57,47,Yes,9
+2025,2,Germany,Europe,55,50,50,34,ChatGPT,93,0.94,Active,56,43,Yes,5
+2025,2,Brazil,South America,55,50,54,44,ChatGPT,75,0.7,Draft,55,50,Yes,4
+2025,2,Pakistan,Asia,55,53,53,44,ChatGPT,45,0.55,None,57,48,No,7
+2025,2,Nigeria,Africa,57,53,51,27,ChatGPT,42,0.52,Active,62,43,No,4
+2025,2,Canada,North America,55,51,55,57,ChatGPT,94,0.92,Active,59,43,Yes,2
+2025,2,Australia,Oceania,55,50,52,52,Google Gemini,96,0.93,None,60,45,No,1
+2025,3,United States,North America,57,52,51,25,ChatGPT,90,0.9,Active,61,48,No,1
+2025,3,United Kingdom,Europe,54,53,54,49,Khanmigo,92,0.91,Draft,57,47,Yes,7
+2025,3,China,Asia,51,51,56,36,Microsoft Copilot,70,0.75,Draft,56,39,No,5
+2025,3,India,Asia,58,50,55,36,Microsoft Copilot,50,0.64,Draft,61,50,No,1
+2025,3,Germany,Europe,50,54,55,57,Khanmigo,93,0.94,None,53,42,No,6
+2025,3,Brazil,South America,52,54,56,29,Khanmigo,75,0.7,None,57,40,No,7
+2025,3,Pakistan,Asia,52,55,51,11,Khanmigo,45,0.55,Active,54,45,Yes,7
+2025,3,Nigeria,Africa,54,57,55,36,Khanmigo,42,0.52,None,54,42,Yes,4
+2025,3,Canada,North America,52,51,51,45,Google Gemini,94,0.92,Draft,57,39,No,5
+2025,3,Australia,Oceania,57,57,57,30,Microsoft Copilot,96,0.93,Active,59,49,Yes,9
+2025,4,United States,North America,60,52,53,59,ChatGPT,90,0.9,Draft,63,50,Yes,9
+2025,4,United Kingdom,Europe,53,56,55,37,Khanmigo,92,0.91,None,58,40,No,7
+2025,4,China,Asia,58,54,55,28,Google Gemini,70,0.75,Active,60,49,No,8
+2025,4,India,Asia,50,58,54,44,Google Gemini,50,0.64,Draft,51,38,Yes,4
+2025,4,Germany,Europe,51,50,55,12,Google Gemini,93,0.94,None,56,45,No,4
+2025,4,Brazil,South America,54,54,54,26,Khanmigo,75,0.7,Active,54,41,No,5
+2025,4,Pakistan,Asia,56,58,56,49,ChatGPT,45,0.55,Draft,61,43,No,4
+2025,4,Nigeria,Africa,55,56,52,6,Khanmigo,42,0.52,None,55,43,Yes,2
+2025,4,Canada,North America,60,50,52,42,Khanmigo,94,0.92,Draft,64,47,No,1
+2025,4,Australia,Oceania,59,52,56,27,Google Gemini,96,0.93,Draft,63,44,No,2
+2025,5,United States,North America,50,56,57,30,ChatGPT,90,0.9,Draft,51,35,Yes,7
+2025,5,United Kingdom,Europe,60,51,50,36,Microsoft Copilot,92,0.91,None,65,47,Yes,7
+2025,5,China,Asia,56,52,51,42,ChatGPT,70,0.75,Active,61,44,Yes,4
+2025,5,India,Asia,57,55,53,53,Khanmigo,50,0.64,Draft,57,46,Yes,9
+2025,5,Germany,Europe,51,54,55,12,ChatGPT,93,0.94,None,51,36,Yes,3
+2025,5,Brazil,South America,56,50,56,38,Khanmigo,75,0.7,Active,57,43,No,7
+2025,5,Pakistan,Asia,54,51,53,17,Khanmigo,45,0.55,Active,59,45,Yes,10
+2025,5,Nigeria,Africa,55,52,57,13,Microsoft Copilot,42,0.52,Draft,60,50,Yes,8
+2025,5,Canada,North America,57,57,55,56,Google Gemini,94,0.92,None,62,49,No,6
+2025,5,Australia,Oceania,56,56,57,32,Google Gemini,96,0.93,Draft,56,50,Yes,2
+2025,6,United States,North America,50,57,53,22,Microsoft Copilot,90,0.9,Active,51,38,No,4
+2025,6,United Kingdom,Europe,57,57,57,50,Google Gemini,92,0.91,Active,61,47,Yes,2
+2025,6,China,Asia,56,51,57,39,Khanmigo,70,0.75,None,57,41,Yes,9
+2025,6,India,Asia,57,55,54,26,Microsoft Copilot,50,0.64,Draft,61,51,No,8
+2025,6,Germany,Europe,52,52,54,12,Microsoft Copilot,93,0.94,Draft,53,40,Yes,3
+2025,6,Brazil,South America,60,58,57,30,Google Gemini,75,0.7,None,61,49,No,1
+2025,6,Pakistan,Asia,55,56,52,34,ChatGPT,45,0.55,Draft,56,46,No,7
+2025,6,Nigeria,Africa,54,52,51,40,Microsoft Copilot,42,0.52,Draft,57,45,Yes,1
+2025,6,Canada,North America,58,57,55,51,ChatGPT,94,0.92,Active,60,50,No,9
+2025,6,Australia,Oceania,53,57,53,31,ChatGPT,96,0.93,None,54,48,No,4
+2025,7,United States,North America,60,51,52,33,Microsoft Copilot,90,0.9,None,62,46,No,6
+2025,7,United Kingdom,Europe,52,54,54,14,Google Gemini,92,0.91,None,53,41,Yes,7
+2025,7,China,Asia,59,56,56,55,Google Gemini,70,0.75,None,60,52,No,5
+2025,7,India,Asia,58,56,50,32,Microsoft Copilot,50,0.64,None,62,51,Yes,3
+2025,7,Germany,Europe,58,55,50,47,Google Gemini,93,0.94,Draft,61,48,No,9
+2025,7,Brazil,South America,51,55,56,28,ChatGPT,75,0.7,None,55,40,Yes,10
+2025,7,Pakistan,Asia,50,56,55,7,Microsoft Copilot,45,0.55,Active,55,42,No,4
+2025,7,Nigeria,Africa,60,50,50,28,ChatGPT,42,0.52,None,62,53,Yes,7
+2025,7,Canada,North America,60,51,55,58,Microsoft Copilot,94,0.92,Active,63,55,Yes,1
+2025,7,Australia,Oceania,60,55,57,59,Khanmigo,96,0.93,None,61,53,No,5
+2025,8,United States,North America,52,58,51,13,Google Gemini,90,0.9,Active,53,44,No,9
+2025,8,United Kingdom,Europe,52,54,50,30,Khanmigo,92,0.91,Active,52,47,No,2
+2025,8,China,Asia,56,50,53,51,Microsoft Copilot,70,0.75,Draft,60,42,Yes,1
+2025,8,India,Asia,52,57,57,57,ChatGPT,50,0.64,None,56,41,Yes,7
+2025,8,Germany,Europe,58,53,54,57,ChatGPT,93,0.94,Draft,62,44,No,3
+2025,8,Brazil,South America,59,53,55,60,Khanmigo,75,0.7,Draft,59,50,Yes,8
+2025,8,Pakistan,Asia,57,54,57,15,ChatGPT,45,0.55,None,58,50,No,6
+2025,8,Nigeria,Africa,53,54,54,47,Khanmigo,42,0.52,Active,55,47,Yes,8
+2025,8,Canada,North America,52,53,52,25,ChatGPT,94,0.92,Active,56,42,No,5
+2025,8,Australia,Oceania,56,55,52,50,ChatGPT,96,0.93,Draft,57,50,No,2
+2025,9,United States,North America,59,50,57,48,ChatGPT,90,0.9,Active,59,50,Yes,5
+2025,9,United Kingdom,Europe,59,52,55,26,Khanmigo,92,0.91,Active,62,54,No,6
+2025,9,China,Asia,56,52,57,58,Google Gemini,70,0.75,None,56,48,Yes,1
+2025,9,India,Asia,55,50,52,13,ChatGPT,50,0.64,None,56,41,Yes,8
+2025,9,Germany,Europe,58,54,53,36,Google Gemini,93,0.94,Draft,58,44,No,4
+2025,9,Brazil,South America,53,52,54,17,Microsoft Copilot,75,0.7,Active,54,47,No,2
+2025,9,Pakistan,Asia,59,50,50,24,Microsoft Copilot,45,0.55,Draft,60,45,No,5
+2025,9,Nigeria,Africa,59,56,56,41,Khanmigo,42,0.52,None,64,52,No,6
+2025,9,Canada,North America,51,51,54,36,Google Gemini,94,0.92,Draft,52,43,No,1
+2025,9,Australia,Oceania,50,51,52,35,Google Gemini,96,0.93,Draft,53,38,No,5
+2025,10,United States,North America,53,57,52,17,Microsoft Copilot,90,0.9,Active,55,46,Yes,3
+2025,10,United Kingdom,Europe,50,53,51,18,Khanmigo,92,0.91,Active,55,40,No,9
+2025,10,China,Asia,57,52,51,60,Microsoft Copilot,70,0.75,None,60,43,Yes,1
+2025,10,India,Asia,60,50,54,19,ChatGPT,50,0.64,Active,65,55,Yes,2
+2025,10,Germany,Europe,60,51,56,20,Microsoft Copilot,93,0.94,None,60,55,No,6
+2025,10,Brazil,South America,58,50,56,17,Google Gemini,75,0.7,None,59,52,Yes,1
+2025,10,Pakistan,Asia,54,58,54,28,Microsoft Copilot,45,0.55,Active,58,48,Yes,4
+2025,10,Nigeria,Africa,56,50,51,14,Google Gemini,42,0.52,None,56,49,No,2
+2025,10,Canada,North America,57,56,51,8,Microsoft Copilot,94,0.92,Draft,60,43,No,3
+2025,10,Australia,Oceania,60,56,53,17,Google Gemini,96,0.93,None,64,49,Yes,7
+2025,11,United States,North America,59,54,53,52,ChatGPT,90,0.9,Draft,61,44,No,6
+2025,11,United Kingdom,Europe,53,54,50,34,ChatGPT,92,0.91,None,54,48,Yes,6
+2025,11,China,Asia,60,56,53,28,ChatGPT,70,0.75,Draft,65,52,No,6
+2025,11,India,Asia,52,57,50,50,Google Gemini,50,0.64,Draft,55,46,No,2
+2025,11,Germany,Europe,51,57,50,45,Google Gemini,93,0.94,Active,52,38,Yes,10
+2025,11,Brazil,South America,54,52,54,53,Microsoft Copilot,75,0.7,Active,57,45,Yes,1
+2025,11,Pakistan,Asia,52,56,57,10,ChatGPT,45,0.55,Active,52,45,Yes,6
+2025,11,Nigeria,Africa,50,51,55,57,Google Gemini,42,0.52,None,55,35,Yes,6
+2025,11,Canada,North America,59,55,50,43,Khanmigo,94,0.92,None,59,46,Yes,5
+2025,11,Australia,Oceania,54,52,52,12,Microsoft Copilot,96,0.93,Active,59,47,No,2
+2025,12,United States,North America,51,55,56,54,Microsoft Copilot,90,0.9,Draft,51,39,Yes,8
+2025,12,United Kingdom,Europe,58,54,51,23,ChatGPT,92,0.91,Draft,62,52,No,7
+2025,12,China,Asia,55,52,51,15,Khanmigo,70,0.75,Draft,60,40,Yes,10
+2025,12,India,Asia,51,51,50,11,ChatGPT,50,0.64,Draft,53,41,Yes,3
+2025,12,Germany,Europe,60,54,57,37,Google Gemini,93,0.94,Active,65,52,No,2
+2025,12,Brazil,South America,53,57,50,29,Microsoft Copilot,75,0.7,Active,58,43,No,1
+2025,12,Pakistan,Asia,58,56,52,7,Microsoft Copilot,45,0.55,None,58,51,No,3
+2025,12,Nigeria,Africa,59,52,53,19,ChatGPT,42,0.52,Active,59,54,No,2
+2025,12,Canada,North America,56,51,50,59,Microsoft Copilot,94,0.92,Active,61,43,Yes,5
+2025,12,Australia,Oceania,56,51,56,15,Microsoft Copilot,96,0.93,Draft,57,50,No,5
+2026,1,United States,North America,61,55,61,37,ChatGPT,90,0.9,Active,62,51,No,10
+2026,1,United Kingdom,Europe,63,60,57,47,Microsoft Copilot,92,0.91,None,67,57,Yes,8
+2026,1,China,Asia,62,60,60,38,Microsoft Copilot,70,0.75,Active,64,51,Yes,2
+2026,1,India,Asia,56,60,61,46,Khanmigo,50,0.64,Active,59,50,Yes,7
+2026,1,Germany,Europe,65,58,62,51,ChatGPT,93,0.94,None,70,51,No,8
+2026,1,Brazil,South America,58,60,58,38,ChatGPT,75,0.7,None,63,46,Yes,4
+2026,1,Pakistan,Asia,65,60,62,19,ChatGPT,45,0.55,None,67,51,No,4
+2026,1,Nigeria,Africa,61,59,57,24,Khanmigo,42,0.52,Active,66,53,No,1
+2026,1,Canada,North America,61,60,55,60,Microsoft Copilot,94,0.92,Draft,65,55,Yes,3
+2026,1,Australia,Oceania,63,60,58,28,Microsoft Copilot,96,0.93,Active,67,48,No,8
+2026,2,United States,North America,58,60,60,5,ChatGPT,90,0.9,Draft,60,52,Yes,2
+2026,2,United Kingdom,Europe,65,57,61,33,Google Gemini,92,0.91,None,68,50,No,4
+2026,2,China,Asia,65,57,57,36,Khanmigo,70,0.75,None,67,51,No,2
+2026,2,India,Asia,57,60,58,47,ChatGPT,50,0.64,None,57,42,Yes,9
+2026,2,Germany,Europe,63,60,60,47,ChatGPT,93,0.94,None,63,53,Yes,8
+2026,2,Brazil,South America,60,60,62,14,Google Gemini,75,0.7,None,65,50,No,6
+2026,2,Pakistan,Asia,59,60,56,24,ChatGPT,45,0.55,Draft,64,49,Yes,2
+2026,2,Nigeria,Africa,57,60,60,23,Google Gemini,42,0.52,Draft,60,44,No,5
+2026,2,Canada,North America,60,60,62,31,Khanmigo,94,0.92,None,64,47,Yes,3
+2026,2,Australia,Oceania,60,59,59,18,Khanmigo,96,0.93,Draft,65,55,Yes,8
+2026,3,United States,North America,61,60,62,24,Microsoft Copilot,90,0.9,None,65,52,Yes,6
+2026,3,United Kingdom,Europe,60,60,57,52,Microsoft Copilot,92,0.91,Active,65,48,No,7
+2026,3,China,Asia,59,55,62,39,Microsoft Copilot,70,0.75,Active,64,46,No,10
+2026,3,India,Asia,59,60,60,59,Microsoft Copilot,50,0.64,None,61,51,No,3
+2026,3,Germany,Europe,64,59,59,26,ChatGPT,93,0.94,None,64,53,No,1
+2026,3,Brazil,South America,65,60,62,54,Microsoft Copilot,75,0.7,Draft,65,56,Yes,4
+2026,3,Pakistan,Asia,61,60,61,42,ChatGPT,45,0.55,Draft,62,51,No,10
+2026,3,Nigeria,Africa,56,60,56,51,Google Gemini,42,0.52,Active,60,45,Yes,7
+2026,3,Canada,North America,59,60,60,24,Microsoft Copilot,94,0.92,Active,63,54,Yes,4
+2026,3,Australia,Oceania,59,56,61,13,Microsoft Copilot,96,0.93,Draft,63,51,Yes,1
+2026,4,United States,North America,63,56,56,36,ChatGPT,90,0.9,None,64,56,Yes,4
+2026,4,United Kingdom,Europe,56,60,58,30,ChatGPT,92,0.91,Draft,56,46,Yes,3
+2026,4,China,Asia,65,59,60,23,ChatGPT,70,0.75,Draft,65,59,No,4
+2026,4,India,Asia,56,60,61,43,ChatGPT,50,0.64,Draft,58,42,No,5
+2026,4,Germany,Europe,64,60,58,41,ChatGPT,93,0.94,None,68,52,No,4
+2026,4,Brazil,South America,57,58,57,52,Khanmigo,75,0.7,None,61,48,Yes,1
+2026,4,Pakistan,Asia,57,58,61,10,Google Gemini,45,0.55,Active,61,50,No,7
+2026,4,Nigeria,Africa,64,60,58,39,Google Gemini,42,0.52,Active,64,49,Yes,6
+2026,4,Canada,North America,65,55,55,32,ChatGPT,94,0.92,None,67,57,Yes,9
+2026,4,Australia,Oceania,61,59,60,29,Khanmigo,96,0.93,Active,63,51,No,3
